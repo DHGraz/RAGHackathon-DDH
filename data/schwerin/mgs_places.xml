@@ -1,0 +1,2171 @@
+<TEI xml:lang="de" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ortsregister</title>
+        <title type="sub">Digitale Edition der Memoiren der Gräfin Schwerin (1684-1732)</title>
+        <author>
+          <forename>Michael</forename>
+          <surname>Pölzl</surname>
+        </author>
+        <author>
+          <forename>Ines</forename>
+          <surname>Peper</surname>
+        </author>
+        <respStmt>
+          <resp>Projektleitung</resp>
+          <persName>
+            <forename>Ines</forename>
+            <surname>Peper</surname>
+          </persName>
+        </respStmt>
+        <respStmt>
+          <resp>Datenmodellierung</resp>
+          <persName>
+            <forename>Selina</forename>
+            <surname>Galka</surname>
+          </persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <orgName corresp="https://www.oeaw.ac.at/ihb/home" ref="https://d-nb.info/gnd/1202798799">Institut für die Erforschung
+                                der Habsburgermonarchie und des Balkanraumes</orgName>
+        </publisher>
+        <authority>
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463"> Zentrum für
+                                Informationsmodellierung - Austrian Centre for Digital Humanities,
+                                Karl-Franzens-Universität Graz </orgName>
+        </authority>
+        <distributor>
+          <orgName ref="https://gams.uni-graz.at"> GAMS -
+                                Geisteswissenschaftliches Asset Management System </orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">
+                                Creative Commons BY-NC 4.0 </licence>
+        </availability>
+        <date when="2026">2026</date>
+        <pubPlace>Graz</pubPlace>
+        <idno type="PID">o:mgs.places</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Ortsregister, born digital</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:mgs" type="context">Digitale Edition der Memoiren der Gräfin Schwerin (1684-1732)</ref>
+        </ab>
+        <p>In den frühen 1720er-Jahren schrieb die Gräfin Luise Charlotte von Schwerin ihre
+               Lebenserinnerungen nieder. Ihre Memoiren sind in zwei Abschriften in französischer
+               Sprache erhalten und geben wertvolle Einblicke in die Handlungsspielräume und Netzwerke
+               von Frauen des Hofadels im frühen 18. Jahrhundert. Insbesondere aus dem Raum der
+               Habsburgermonarchie sind aus dieser Zeit keine vergleichbaren Selbstzeugnisse von Frauen
+               erhalten.</p>
+        <p>Geboren als Freiin von Heiden im Herzogtum Kleve und aufgewachsen in den Niederlanden,
+               hatte die Autorin 1704 in eine der führenden Familien des Berliner Hofadels
+               eingeheiratet. 1716 begleitete sie ihren Mann, Graf Friedrich Wilhelm von Schwerin, auf
+               seiner Mission als außerordentlicher preußischer Gesandter nach Wien. 1719 trat sie hier
+               im Palais der Gräfin Eleonore Theresia von Strattmann vom reformierten zum katholischen
+               Glauben über. Ihr Vorhaben, ein Gut in Schlesien zu erwerben und damit wohl auch ihrem
+               Mann und ihren Brüdern Möglichkeiten für den Eintritt in den kaiserlichen Dienst zu
+               eröffnen, scheiterte zunächst am Widerstand des böhmischen Hofkanzlers Graf Schlik, dann
+               an dem Skandal, den das Bekanntwerden der Konversion in Berlin auslöste. Die Gräfin wurde
+               auf persönliche Anordnung des Königs von ihrer Familie getrennt und musste ins Exil gehen. 
+               Sie verbrachte  den Rest ihres Lebens in Köln, Schlesien und Wien und starb 1732 im 
+               Kloster St. Laurenz in Wien.</p>
+        <p>Im Rahmen eines vom FWF finanzierten Forschungsprojekts (Laufzeit: 2022-2026) entsteht
+               eine digitale Edition, die den Text in französischer und deutscher Sprache für die
+               Forschung zugänglich macht und durch Hintergrundinformationen und digitale
+               Auswertungswerkzeuge erschließt und die zahlreichen Abweichungen zwischen den beiden
+               überlieferten Abschriften ausweist. Im Zentrum der Forschungsfragen des Projekts steht das
+               soziale Netzwerk der Gräfin in Wien. Dieses beruhte primär auf verwandtschaftlichen
+               Beziehungen, aber auch Hofämter und kirchliche Institutionen spielten eine
+               wichtige Rolle darin. Sowohl in dieser Hinsicht als auch in Bezug auf die kommunikativen
+               Strategien und das intendierte Publikum des Texts fragt das Projekt u.a. nach
+               zeitgenössischen Vorstellungen von Öffentlichkeit, „Privatheit“ und Geheimhaltung.</p>
+        <p>Die digitale Edition wurde vom Institut für die Erforschung der
+               Habsburgermonarchie und des Balkanraumes der Österreichischen Akademie der Wissenschaften 
+               in Kooperation mit dem Institut für Digitale Geisteswissenschaften der Universität Graz 
+               entwickelt. Das Projekt konnte auf vorangehende Forschungen (u.a. im Rahmen der 
+               DFG-Forschungsgruppe „Self-Narratives in Transcultural Perspective“) und eine gedruckte 
+               Edition aufbauen, die auf einer der beiden heute bekannten, von einander abweichenden 
+               Abschriften der Memoiren basiert: Une conversion au
+               XVIIIe siècle. Mémoires de la comtesse de Schwerin, herausgegeben von Maurice Daumas und
+               Claudia Ulbrich unter Mitarbeit von Sebastian Kühn, Nina Mönich und Ines Peper
+               (Bordeaux, 2013).</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listPlace>
+        <place xml:id="O1">
+          <placeName type="contemporary">Deutschland</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2921044/</idno>
+          <linkGrp>
+            <ptr ana="P.172" target="/o:mgs.normalizedText#P.172" type="page"/>
+            <ptr ana="P.233" target="/o:mgs.normalizedText#P.233" type="page"/>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.446" target="/o:mgs.normalizedText#P.446" type="page"/>
+            <ptr ana="P.619" target="/o:mgs.normalizedText#P.619" type="page"/>
+            <ptr ana="P.621" target="/o:mgs.normalizedText#P.621" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O119">
+          <placeName type="contemporary">Altlandsberg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/6550613/</idno>
+          <linkGrp>
+            <ptr ana="P.96" target="/o:mgs.normalizedText#P.96" type="page"/>
+            <ptr ana="P.97" target="/o:mgs.normalizedText#P.97" type="page"/>
+            <ptr ana="P.97" target="/o:mgs.normalizedText#P.97" type="page"/>
+            <ptr ana="P.98" target="/o:mgs.normalizedText#P.98" type="page"/>
+            <ptr ana="P.100" target="/o:mgs.normalizedText#P.100" type="page"/>
+            <ptr ana="P.110" target="/o:mgs.normalizedText#P.110" type="page"/>
+            <ptr ana="P.116" target="/o:mgs.normalizedText#P.116" type="page"/>
+            <ptr ana="P.117" target="/o:mgs.normalizedText#P.117" type="page"/>
+            <ptr ana="P.124" target="/o:mgs.normalizedText#P.124" type="page"/>
+            <ptr ana="P.125" target="/o:mgs.normalizedText#P.125" type="page"/>
+            <ptr ana="P.125" target="/o:mgs.normalizedText#P.125" type="page"/>
+            <ptr ana="P.126" target="/o:mgs.normalizedText#P.126" type="page"/>
+            <ptr ana="P.127" target="/o:mgs.normalizedText#P.127" type="page"/>
+            <ptr ana="P.129" target="/o:mgs.normalizedText#P.129" type="page"/>
+            <ptr ana="P.159" target="/o:mgs.normalizedText#P.159" type="page"/>
+            <ptr ana="P.168" target="/o:mgs.normalizedText#P.168" type="page"/>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O132">
+          <placeName type="contemporary">Amsterdam</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2759794/</idno>
+          <linkGrp>
+            <ptr ana="P.336" target="/o:mgs.normalizedText#P.336" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O145">
+          <placeName type="contemporary">Gębice (Polen)</placeName>
+          <placeName type="historical">Amtitz</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3099416/</idno>
+          <linkGrp>
+            <ptr ana="P.223" target="/o:mgs.normalizedText#P.223" type="page"/>
+            <ptr ana="P.226" target="/o:mgs.normalizedText#P.226" type="page"/>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.302" target="/o:mgs.normalizedText#P.302" type="page"/>
+            <ptr ana="P.410" target="/o:mgs.normalizedText#P.410" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O3">
+          <placeName type="contemporary">England</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/6269131/</idno>
+          <linkGrp>
+            <ptr ana="P.170" target="/o:mgs.normalizedText#P.170" type="page"/>
+            <ptr ana="P.303" target="/o:mgs.normalizedText#P.303" type="page"/>
+            <ptr ana="P.314" target="/o:mgs.normalizedText#P.314" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O4">
+          <placeName type="contemporary">Arnhem (Niederlande)</placeName>
+          <placeName type="historical">Arnheim</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2759660/</idno>
+          <linkGrp>
+            <ptr ana="P.70" target="/o:mgs.normalizedText#P.70" type="page"/>
+            <ptr ana="P.119" target="/o:mgs.normalizedText#P.119" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O5">
+          <placeName type="contemporary">Baden bei Wien</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2782067/</idno>
+          <linkGrp>
+            <ptr ana="P.269" target="/o:mgs.normalizedText#P.269" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O6">
+          <placeName type="contemporary">Berlin</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2950159/</idno>
+          <linkGrp>
+            <ptr ana="P.10" target="/o:mgs.normalizedText#P.10" type="page"/>
+            <ptr ana="P.19" target="/o:mgs.normalizedText#P.19" type="page"/>
+            <ptr ana="P.21" target="/o:mgs.normalizedText#P.21" type="page"/>
+            <ptr ana="P.21" target="/o:mgs.normalizedText#P.21" type="page"/>
+            <ptr ana="P.25" target="/o:mgs.normalizedText#P.25" type="page"/>
+            <ptr ana="P.28" target="/o:mgs.normalizedText#P.28" type="page"/>
+            <ptr ana="P.28" target="/o:mgs.normalizedText#P.28" type="page"/>
+            <ptr ana="P.30" target="/o:mgs.normalizedText#P.30" type="page"/>
+            <ptr ana="P.31" target="/o:mgs.normalizedText#P.31" type="page"/>
+            <ptr ana="P.31" target="/o:mgs.normalizedText#P.31" type="page"/>
+            <ptr ana="P.32" target="/o:mgs.normalizedText#P.32" type="page"/>
+            <ptr ana="P.32" target="/o:mgs.normalizedText#P.32" type="page"/>
+            <ptr ana="P.32" target="/o:mgs.normalizedText#P.32" type="page"/>
+            <ptr ana="P.33" target="/o:mgs.normalizedText#P.33" type="page"/>
+            <ptr ana="P.38" target="/o:mgs.normalizedText#P.38" type="page"/>
+            <ptr ana="P.44" target="/o:mgs.normalizedText#P.44" type="page"/>
+            <ptr ana="P.48" target="/o:mgs.normalizedText#P.48" type="page"/>
+            <ptr ana="P.48" target="/o:mgs.normalizedText#P.48" type="page"/>
+            <ptr ana="P.48" target="/o:mgs.normalizedText#P.48" type="page"/>
+            <ptr ana="P.63" target="/o:mgs.normalizedText#P.63" type="page"/>
+            <ptr ana="P.69" target="/o:mgs.normalizedText#P.69" type="page"/>
+            <ptr ana="P.70" target="/o:mgs.normalizedText#P.70" type="page"/>
+            <ptr ana="P.73" target="/o:mgs.normalizedText#P.73" type="page"/>
+            <ptr ana="P.75" target="/o:mgs.normalizedText#P.75" type="page"/>
+            <ptr ana="P.76" target="/o:mgs.normalizedText#P.76" type="page"/>
+            <ptr ana="P.78" target="/o:mgs.normalizedText#P.78" type="page"/>
+            <ptr ana="P.83" target="/o:mgs.normalizedText#P.83" type="page"/>
+            <ptr ana="P.83" target="/o:mgs.normalizedText#P.83" type="page"/>
+            <ptr ana="P.83" target="/o:mgs.normalizedText#P.83" type="page"/>
+            <ptr ana="P.91" target="/o:mgs.normalizedText#P.91" type="page"/>
+            <ptr ana="P.92" target="/o:mgs.normalizedText#P.92" type="page"/>
+            <ptr ana="P.92" target="/o:mgs.normalizedText#P.92" type="page"/>
+            <ptr ana="P.96" target="/o:mgs.normalizedText#P.96" type="page"/>
+            <ptr ana="P.98" target="/o:mgs.normalizedText#P.98" type="page"/>
+            <ptr ana="P.98" target="/o:mgs.normalizedText#P.98" type="page"/>
+            <ptr ana="P.98" target="/o:mgs.normalizedText#P.98" type="page"/>
+            <ptr ana="P.99" target="/o:mgs.normalizedText#P.99" type="page"/>
+            <ptr ana="P.99" target="/o:mgs.normalizedText#P.99" type="page"/>
+            <ptr ana="P.101" target="/o:mgs.normalizedText#P.101" type="page"/>
+            <ptr ana="P.101" target="/o:mgs.normalizedText#P.101" type="page"/>
+            <ptr ana="P.102" target="/o:mgs.normalizedText#P.102" type="page"/>
+            <ptr ana="P.103" target="/o:mgs.normalizedText#P.103" type="page"/>
+            <ptr ana="P.104" target="/o:mgs.normalizedText#P.104" type="page"/>
+            <ptr ana="P.104" target="/o:mgs.normalizedText#P.104" type="page"/>
+            <ptr ana="P.104" target="/o:mgs.normalizedText#P.104" type="page"/>
+            <ptr ana="P.109" target="/o:mgs.normalizedText#P.109" type="page"/>
+            <ptr ana="P.111" target="/o:mgs.normalizedText#P.111" type="page"/>
+            <ptr ana="P.116" target="/o:mgs.normalizedText#P.116" type="page"/>
+            <ptr ana="P.117" target="/o:mgs.normalizedText#P.117" type="page"/>
+            <ptr ana="P.117" target="/o:mgs.normalizedText#P.117" type="page"/>
+            <ptr ana="P.118" target="/o:mgs.normalizedText#P.118" type="page"/>
+            <ptr ana="P.124" target="/o:mgs.normalizedText#P.124" type="page"/>
+            <ptr ana="P.124" target="/o:mgs.normalizedText#P.124" type="page"/>
+            <ptr ana="P.124" target="/o:mgs.normalizedText#P.124" type="page"/>
+            <ptr ana="P.124" target="/o:mgs.normalizedText#P.124" type="page"/>
+            <ptr ana="P.125" target="/o:mgs.normalizedText#P.125" type="page"/>
+            <ptr ana="P.126" target="/o:mgs.normalizedText#P.126" type="page"/>
+            <ptr ana="P.128" target="/o:mgs.normalizedText#P.128" type="page"/>
+            <ptr ana="P.128" target="/o:mgs.normalizedText#P.128" type="page"/>
+            <ptr ana="P.128" target="/o:mgs.normalizedText#P.128" type="page"/>
+            <ptr ana="P.130" target="/o:mgs.normalizedText#P.130" type="page"/>
+            <ptr ana="P.132" target="/o:mgs.normalizedText#P.132" type="page"/>
+            <ptr ana="P.133" target="/o:mgs.normalizedText#P.133" type="page"/>
+            <ptr ana="P.134" target="/o:mgs.normalizedText#P.134" type="page"/>
+            <ptr ana="P.134" target="/o:mgs.normalizedText#P.134" type="page"/>
+            <ptr ana="P.139" target="/o:mgs.normalizedText#P.139" type="page"/>
+            <ptr ana="P.139" target="/o:mgs.normalizedText#P.139" type="page"/>
+            <ptr ana="P.141" target="/o:mgs.normalizedText#P.141" type="page"/>
+            <ptr ana="P.142" target="/o:mgs.normalizedText#P.142" type="page"/>
+            <ptr ana="P.145" target="/o:mgs.normalizedText#P.145" type="page"/>
+            <ptr ana="P.147" target="/o:mgs.normalizedText#P.147" type="page"/>
+            <ptr ana="P.148" target="/o:mgs.normalizedText#P.148" type="page"/>
+            <ptr ana="P.154" target="/o:mgs.normalizedText#P.154" type="page"/>
+            <ptr ana="P.155" target="/o:mgs.normalizedText#P.155" type="page"/>
+            <ptr ana="P.157" target="/o:mgs.normalizedText#P.157" type="page"/>
+            <ptr ana="P.158" target="/o:mgs.normalizedText#P.158" type="page"/>
+            <ptr ana="P.160" target="/o:mgs.normalizedText#P.160" type="page"/>
+            <ptr ana="P.163" target="/o:mgs.normalizedText#P.163" type="page"/>
+            <ptr ana="P.163" target="/o:mgs.normalizedText#P.163" type="page"/>
+            <ptr ana="P.164" target="/o:mgs.normalizedText#P.164" type="page"/>
+            <ptr ana="P.164" target="/o:mgs.normalizedText#P.164" type="page"/>
+            <ptr ana="P.164" target="/o:mgs.normalizedText#P.164" type="page"/>
+            <ptr ana="P.165" target="/o:mgs.normalizedText#P.165" type="page"/>
+            <ptr ana="P.168" target="/o:mgs.normalizedText#P.168" type="page"/>
+            <ptr ana="P.171" target="/o:mgs.normalizedText#P.171" type="page"/>
+            <ptr ana="P.171" target="/o:mgs.normalizedText#P.171" type="page"/>
+            <ptr ana="P.171" target="/o:mgs.normalizedText#P.171" type="page"/>
+            <ptr ana="P.172" target="/o:mgs.normalizedText#P.172" type="page"/>
+            <ptr ana="P.172" target="/o:mgs.normalizedText#P.172" type="page"/>
+            <ptr ana="P.180" target="/o:mgs.normalizedText#P.180" type="page"/>
+            <ptr ana="P.182" target="/o:mgs.normalizedText#P.182" type="page"/>
+            <ptr ana="P.188" target="/o:mgs.normalizedText#P.188" type="page"/>
+            <ptr ana="P.191" target="/o:mgs.normalizedText#P.191" type="page"/>
+            <ptr ana="P.191" target="/o:mgs.normalizedText#P.191" type="page"/>
+            <ptr ana="P.191" target="/o:mgs.normalizedText#P.191" type="page"/>
+            <ptr ana="P.191" target="/o:mgs.normalizedText#P.191" type="page"/>
+            <ptr ana="P.192" target="/o:mgs.normalizedText#P.192" type="page"/>
+            <ptr ana="P.195" target="/o:mgs.normalizedText#P.195" type="page"/>
+            <ptr ana="P.196" target="/o:mgs.normalizedText#P.196" type="page"/>
+            <ptr ana="P.197" target="/o:mgs.normalizedText#P.197" type="page"/>
+            <ptr ana="P.197" target="/o:mgs.normalizedText#P.197" type="page"/>
+            <ptr ana="P.197" target="/o:mgs.normalizedText#P.197" type="page"/>
+            <ptr ana="P.198" target="/o:mgs.normalizedText#P.198" type="page"/>
+            <ptr ana="P.198" target="/o:mgs.normalizedText#P.198" type="page"/>
+            <ptr ana="P.198" target="/o:mgs.normalizedText#P.198" type="page"/>
+            <ptr ana="P.198" target="/o:mgs.normalizedText#P.198" type="page"/>
+            <ptr ana="P.198" target="/o:mgs.normalizedText#P.198" type="page"/>
+            <ptr ana="P.200" target="/o:mgs.normalizedText#P.200" type="page"/>
+            <ptr ana="P.200" target="/o:mgs.normalizedText#P.200" type="page"/>
+            <ptr ana="P.200" target="/o:mgs.normalizedText#P.200" type="page"/>
+            <ptr ana="P.201" target="/o:mgs.normalizedText#P.201" type="page"/>
+            <ptr ana="P.201" target="/o:mgs.normalizedText#P.201" type="page"/>
+            <ptr ana="P.202" target="/o:mgs.normalizedText#P.202" type="page"/>
+            <ptr ana="P.202" target="/o:mgs.normalizedText#P.202" type="page"/>
+            <ptr ana="P.202" target="/o:mgs.normalizedText#P.202" type="page"/>
+            <ptr ana="P.203" target="/o:mgs.normalizedText#P.203" type="page"/>
+            <ptr ana="P.203" target="/o:mgs.normalizedText#P.203" type="page"/>
+            <ptr ana="P.204" target="/o:mgs.normalizedText#P.204" type="page"/>
+            <ptr ana="P.204" target="/o:mgs.normalizedText#P.204" type="page"/>
+            <ptr ana="P.205" target="/o:mgs.normalizedText#P.205" type="page"/>
+            <ptr ana="P.206" target="/o:mgs.normalizedText#P.206" type="page"/>
+            <ptr ana="P.208" target="/o:mgs.normalizedText#P.208" type="page"/>
+            <ptr ana="P.212" target="/o:mgs.normalizedText#P.212" type="page"/>
+            <ptr ana="P.214" target="/o:mgs.normalizedText#P.214" type="page"/>
+            <ptr ana="P.216" target="/o:mgs.normalizedText#P.216" type="page"/>
+            <ptr ana="P.216" target="/o:mgs.normalizedText#P.216" type="page"/>
+            <ptr ana="P.219" target="/o:mgs.normalizedText#P.219" type="page"/>
+            <ptr ana="P.219" target="/o:mgs.normalizedText#P.219" type="page"/>
+            <ptr ana="P.220" target="/o:mgs.normalizedText#P.220" type="page"/>
+            <ptr ana="P.220" target="/o:mgs.normalizedText#P.220" type="page"/>
+            <ptr ana="P.220" target="/o:mgs.normalizedText#P.220" type="page"/>
+            <ptr ana="P.220" target="/o:mgs.normalizedText#P.220" type="page"/>
+            <ptr ana="P.222" target="/o:mgs.normalizedText#P.222" type="page"/>
+            <ptr ana="P.223" target="/o:mgs.normalizedText#P.223" type="page"/>
+            <ptr ana="P.224" target="/o:mgs.normalizedText#P.224" type="page"/>
+            <ptr ana="P.225" target="/o:mgs.normalizedText#P.225" type="page"/>
+            <ptr ana="P.226" target="/o:mgs.normalizedText#P.226" type="page"/>
+            <ptr ana="P.226" target="/o:mgs.normalizedText#P.226" type="page"/>
+            <ptr ana="P.226" target="/o:mgs.normalizedText#P.226" type="page"/>
+            <ptr ana="P.227" target="/o:mgs.normalizedText#P.227" type="page"/>
+            <ptr ana="P.233" target="/o:mgs.normalizedText#P.233" type="page"/>
+            <ptr ana="P.233" target="/o:mgs.normalizedText#P.233" type="page"/>
+            <ptr ana="P.237" target="/o:mgs.normalizedText#P.237" type="page"/>
+            <ptr ana="P.237" target="/o:mgs.normalizedText#P.237" type="page"/>
+            <ptr ana="P.238" target="/o:mgs.normalizedText#P.238" type="page"/>
+            <ptr ana="P.242" target="/o:mgs.normalizedText#P.242" type="page"/>
+            <ptr ana="P.248" target="/o:mgs.normalizedText#P.248" type="page"/>
+            <ptr ana="P.256" target="/o:mgs.normalizedText#P.256" type="page"/>
+            <ptr ana="P.262" target="/o:mgs.normalizedText#P.262" type="page"/>
+            <ptr ana="P.265" target="/o:mgs.normalizedText#P.265" type="page"/>
+            <ptr ana="P.268" target="/o:mgs.normalizedText#P.268" type="page"/>
+            <ptr ana="P.276" target="/o:mgs.normalizedText#P.276" type="page"/>
+            <ptr ana="P.276" target="/o:mgs.normalizedText#P.276" type="page"/>
+            <ptr ana="P.277" target="/o:mgs.normalizedText#P.277" type="page"/>
+            <ptr ana="P.278" target="/o:mgs.normalizedText#P.278" type="page"/>
+            <ptr ana="P.281" target="/o:mgs.normalizedText#P.281" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.284" target="/o:mgs.normalizedText#P.284" type="page"/>
+            <ptr ana="P.289" target="/o:mgs.normalizedText#P.289" type="page"/>
+            <ptr ana="P.290" target="/o:mgs.normalizedText#P.290" type="page"/>
+            <ptr ana="P.294" target="/o:mgs.normalizedText#P.294" type="page"/>
+            <ptr ana="P.294" target="/o:mgs.normalizedText#P.294" type="page"/>
+            <ptr ana="P.294" target="/o:mgs.normalizedText#P.294" type="page"/>
+            <ptr ana="P.294" target="/o:mgs.normalizedText#P.294" type="page"/>
+            <ptr ana="P.294" target="/o:mgs.normalizedText#P.294" type="page"/>
+            <ptr ana="P.295" target="/o:mgs.normalizedText#P.295" type="page"/>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.299" target="/o:mgs.normalizedText#P.299" type="page"/>
+            <ptr ana="P.299" target="/o:mgs.normalizedText#P.299" type="page"/>
+            <ptr ana="P.302" target="/o:mgs.normalizedText#P.302" type="page"/>
+            <ptr ana="P.302" target="/o:mgs.normalizedText#P.302" type="page"/>
+            <ptr ana="P.303" target="/o:mgs.normalizedText#P.303" type="page"/>
+            <ptr ana="P.303" target="/o:mgs.normalizedText#P.303" type="page"/>
+            <ptr ana="P.303" target="/o:mgs.normalizedText#P.303" type="page"/>
+            <ptr ana="P.308" target="/o:mgs.normalizedText#P.308" type="page"/>
+            <ptr ana="P.310" target="/o:mgs.normalizedText#P.310" type="page"/>
+            <ptr ana="P.311" target="/o:mgs.normalizedText#P.311" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.315" target="/o:mgs.normalizedText#P.315" type="page"/>
+            <ptr ana="P.315" target="/o:mgs.normalizedText#P.315" type="page"/>
+            <ptr ana="P.316" target="/o:mgs.normalizedText#P.316" type="page"/>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.327" target="/o:mgs.normalizedText#P.327" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.336" target="/o:mgs.normalizedText#P.336" type="page"/>
+            <ptr ana="P.336" target="/o:mgs.normalizedText#P.336" type="page"/>
+            <ptr ana="P.338" target="/o:mgs.normalizedText#P.338" type="page"/>
+            <ptr ana="P.358" target="/o:mgs.normalizedText#P.358" type="page"/>
+            <ptr ana="P.363" target="/o:mgs.normalizedText#P.363" type="page"/>
+            <ptr ana="P.366" target="/o:mgs.normalizedText#P.366" type="page"/>
+            <ptr ana="P.366" target="/o:mgs.normalizedText#P.366" type="page"/>
+            <ptr ana="P.367" target="/o:mgs.normalizedText#P.367" type="page"/>
+            <ptr ana="P.369" target="/o:mgs.normalizedText#P.369" type="page"/>
+            <ptr ana="P.369" target="/o:mgs.normalizedText#P.369" type="page"/>
+            <ptr ana="P.370" target="/o:mgs.normalizedText#P.370" type="page"/>
+            <ptr ana="P.371" target="/o:mgs.normalizedText#P.371" type="page"/>
+            <ptr ana="P.372" target="/o:mgs.normalizedText#P.372" type="page"/>
+            <ptr ana="P.372" target="/o:mgs.normalizedText#P.372" type="page"/>
+            <ptr ana="P.372" target="/o:mgs.normalizedText#P.372" type="page"/>
+            <ptr ana="P.372" target="/o:mgs.normalizedText#P.372" type="page"/>
+            <ptr ana="P.373" target="/o:mgs.normalizedText#P.373" type="page"/>
+            <ptr ana="P.374" target="/o:mgs.normalizedText#P.374" type="page"/>
+            <ptr ana="P.380" target="/o:mgs.normalizedText#P.380" type="page"/>
+            <ptr ana="P.380" target="/o:mgs.normalizedText#P.380" type="page"/>
+            <ptr ana="P.380" target="/o:mgs.normalizedText#P.380" type="page"/>
+            <ptr ana="P.382" target="/o:mgs.normalizedText#P.382" type="page"/>
+            <ptr ana="P.382" target="/o:mgs.normalizedText#P.382" type="page"/>
+            <ptr ana="P.385" target="/o:mgs.normalizedText#P.385" type="page"/>
+            <ptr ana="P.385" target="/o:mgs.normalizedText#P.385" type="page"/>
+            <ptr ana="P.393" target="/o:mgs.normalizedText#P.393" type="page"/>
+            <ptr ana="P.393" target="/o:mgs.normalizedText#P.393" type="page"/>
+            <ptr ana="P.394" target="/o:mgs.normalizedText#P.394" type="page"/>
+            <ptr ana="P.396" target="/o:mgs.normalizedText#P.396" type="page"/>
+            <ptr ana="P.396" target="/o:mgs.normalizedText#P.396" type="page"/>
+            <ptr ana="P.396" target="/o:mgs.normalizedText#P.396" type="page"/>
+            <ptr ana="P.398" target="/o:mgs.normalizedText#P.398" type="page"/>
+            <ptr ana="P.399" target="/o:mgs.normalizedText#P.399" type="page"/>
+            <ptr ana="P.403" target="/o:mgs.normalizedText#P.403" type="page"/>
+            <ptr ana="P.407" target="/o:mgs.normalizedText#P.407" type="page"/>
+            <ptr ana="P.408" target="/o:mgs.normalizedText#P.408" type="page"/>
+            <ptr ana="P.409" target="/o:mgs.normalizedText#P.409" type="page"/>
+            <ptr ana="P.409" target="/o:mgs.normalizedText#P.409" type="page"/>
+            <ptr ana="P.411" target="/o:mgs.normalizedText#P.411" type="page"/>
+            <ptr ana="P.411" target="/o:mgs.normalizedText#P.411" type="page"/>
+            <ptr ana="P.411" target="/o:mgs.normalizedText#P.411" type="page"/>
+            <ptr ana="P.411" target="/o:mgs.normalizedText#P.411" type="page"/>
+            <ptr ana="P.412" target="/o:mgs.normalizedText#P.412" type="page"/>
+            <ptr ana="P.412" target="/o:mgs.normalizedText#P.412" type="page"/>
+            <ptr ana="P.413" target="/o:mgs.normalizedText#P.413" type="page"/>
+            <ptr ana="P.413" target="/o:mgs.normalizedText#P.413" type="page"/>
+            <ptr ana="P.413" target="/o:mgs.normalizedText#P.413" type="page"/>
+            <ptr ana="P.413" target="/o:mgs.normalizedText#P.413" type="page"/>
+            <ptr ana="P.414" target="/o:mgs.normalizedText#P.414" type="page"/>
+            <ptr ana="P.414" target="/o:mgs.normalizedText#P.414" type="page"/>
+            <ptr ana="P.414" target="/o:mgs.normalizedText#P.414" type="page"/>
+            <ptr ana="P.415" target="/o:mgs.normalizedText#P.415" type="page"/>
+            <ptr ana="P.416" target="/o:mgs.normalizedText#P.416" type="page"/>
+            <ptr ana="P.416" target="/o:mgs.normalizedText#P.416" type="page"/>
+            <ptr ana="P.417" target="/o:mgs.normalizedText#P.417" type="page"/>
+            <ptr ana="P.419" target="/o:mgs.normalizedText#P.419" type="page"/>
+            <ptr ana="P.419" target="/o:mgs.normalizedText#P.419" type="page"/>
+            <ptr ana="P.420" target="/o:mgs.normalizedText#P.420" type="page"/>
+            <ptr ana="P.420" target="/o:mgs.normalizedText#P.420" type="page"/>
+            <ptr ana="P.420" target="/o:mgs.normalizedText#P.420" type="page"/>
+            <ptr ana="P.420" target="/o:mgs.normalizedText#P.420" type="page"/>
+            <ptr ana="P.435" target="/o:mgs.normalizedText#P.435" type="page"/>
+            <ptr ana="P.436" target="/o:mgs.normalizedText#P.436" type="page"/>
+            <ptr ana="P.440" target="/o:mgs.normalizedText#P.440" type="page"/>
+            <ptr ana="P.442" target="/o:mgs.normalizedText#P.442" type="page"/>
+            <ptr ana="P.442" target="/o:mgs.normalizedText#P.442" type="page"/>
+            <ptr ana="P.442" target="/o:mgs.normalizedText#P.442" type="page"/>
+            <ptr ana="P.442" target="/o:mgs.normalizedText#P.442" type="page"/>
+            <ptr ana="P.443" target="/o:mgs.normalizedText#P.443" type="page"/>
+            <ptr ana="P.443" target="/o:mgs.normalizedText#P.443" type="page"/>
+            <ptr ana="P.443" target="/o:mgs.normalizedText#P.443" type="page"/>
+            <ptr ana="P.446" target="/o:mgs.normalizedText#P.446" type="page"/>
+            <ptr ana="P.446" target="/o:mgs.normalizedText#P.446" type="page"/>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+            <ptr ana="P.450" target="/o:mgs.normalizedText#P.450" type="page"/>
+            <ptr ana="P.450" target="/o:mgs.normalizedText#P.450" type="page"/>
+            <ptr ana="P.452" target="/o:mgs.normalizedText#P.452" type="page"/>
+            <ptr ana="P.460" target="/o:mgs.normalizedText#P.460" type="page"/>
+            <ptr ana="P.466" target="/o:mgs.normalizedText#P.466" type="page"/>
+            <ptr ana="P.478" target="/o:mgs.normalizedText#P.478" type="page"/>
+            <ptr ana="P.501" target="/o:mgs.normalizedText#P.501" type="page"/>
+            <ptr ana="P.502" target="/o:mgs.normalizedText#P.502" type="page"/>
+            <ptr ana="P.503" target="/o:mgs.normalizedText#P.503" type="page"/>
+            <ptr ana="P.503" target="/o:mgs.normalizedText#P.503" type="page"/>
+            <ptr ana="P.504" target="/o:mgs.normalizedText#P.504" type="page"/>
+            <ptr ana="P.539" target="/o:mgs.normalizedText#P.539" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O7">
+          <placeName type="contemporary">Bethlehem</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/284315/</idno>
+          <linkGrp>
+            <ptr ana="P.462" target="/o:mgs.normalizedText#P.462" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O127">
+          <placeName type="contemporary">Satopy-Samulewo (Polen)</placeName>
+          <placeName type="historical">Bischdorf</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/759545/</idno>
+          <linkGrp>
+            <ptr ana="P.635" target="/o:mgs.normalizedText#P.635" type="page"/>
+            <ptr ana="P.638" target="/o:mgs.normalizedText#P.638" type="page"/>
+            <ptr ana="P.643" target="/o:mgs.normalizedText#P.643" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O16">
+          <placeName type="historical">Königreich Böhmen</placeName>
+          <placeName type="contemporary">Böhmen</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3078198/</idno>
+          <idno type="URI">https://explore.gnd.network/gnd/4007467-5</idno>
+          <linkGrp>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.347" target="/o:mgs.normalizedText#P.347" type="page"/>
+            <ptr ana="P.349" target="/o:mgs.normalizedText#P.349" type="page"/>
+            <ptr ana="P.351" target="/o:mgs.normalizedText#P.351" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O140">
+          <placeName type="contemporary">Bohnsdorf (heute Ortsteil von Berlin)</placeName>
+          <note type="description">Landgut des Grafen Schwerin</note>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2946887/</idno>
+          <linkGrp>
+            <ptr ana="P.171" target="/o:mgs.normalizedText#P.171" type="page"/>
+            <ptr ana="P.184" target="/o:mgs.normalizedText#P.184" type="page"/>
+            <ptr ana="P.192" target="/o:mgs.normalizedText#P.192" type="page"/>
+            <ptr ana="P.202" target="/o:mgs.normalizedText#P.202" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O8">
+          <placeName type="contemporary">Brabant</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2749990/</idno>
+          <linkGrp>
+            <ptr ana="P.151" target="/o:mgs.normalizedText#P.151" type="page"/>
+            <ptr ana="P.422" target="/o:mgs.normalizedText#P.422" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O9">
+          <placeName type="contemporary">Barchem</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2759429/</idno>
+          <linkGrp>
+            <ptr ana="P.25" target="/o:mgs.normalizedText#P.25" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O10">
+          <placeName type="contemporary">Brandenburg</placeName>
+          <placeName type="historical">Markgrafschaft Brandenburg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2945356/</idno>
+          <idno type="URI">https://d-nb.info/gnd/4007955-7</idno>
+          <linkGrp>
+            <ptr ana="P.109" target="/o:mgs.normalizedText#P.109" type="page"/>
+            <ptr ana="P.480" target="/o:mgs.normalizedText#P.480" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O143">
+          <placeName type="contemporary">Ushakovo (Russland)</placeName>
+          <placeName type="historical">Brandenburg (Haff)</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/478423/</idno>
+          <linkGrp>
+            <ptr ana="P.625" target="/o:mgs.normalizedText#P.625" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O11">
+          <placeName type="contemporary">Braniewo (Polen)</placeName>
+          <placeName type="historical">Braunsberg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3102677/</idno>
+          <linkGrp>
+            <ptr ana="P.521" target="/o:mgs.normalizedText#P.521" type="page"/>
+            <ptr ana="P.521" target="/o:mgs.normalizedText#P.521" type="page"/>
+            <ptr ana="P.521" target="/o:mgs.normalizedText#P.521" type="page"/>
+            <ptr ana="P.523" target="/o:mgs.normalizedText#P.523" type="page"/>
+            <ptr ana="P.526" target="/o:mgs.normalizedText#P.526" type="page"/>
+            <ptr ana="P.526" target="/o:mgs.normalizedText#P.526" type="page"/>
+            <ptr ana="P.529" target="/o:mgs.normalizedText#P.529" type="page"/>
+            <ptr ana="P.626" target="/o:mgs.normalizedText#P.626" type="page"/>
+            <ptr ana="P.638" target="/o:mgs.normalizedText#P.638" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O12">
+          <placeName type="contemporary">Wrocław (Polen)</placeName>
+          <placeName type="historical">Breslau</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3081368/</idno>
+          <linkGrp>
+            <ptr ana="P.226" target="/o:mgs.normalizedText#P.226" type="page"/>
+            <ptr ana="P.310" target="/o:mgs.normalizedText#P.310" type="page"/>
+            <ptr ana="P.310" target="/o:mgs.normalizedText#P.310" type="page"/>
+            <ptr ana="P.317" target="/o:mgs.normalizedText#P.317" type="page"/>
+            <ptr ana="P.317" target="/o:mgs.normalizedText#P.317" type="page"/>
+            <ptr ana="P.320" target="/o:mgs.normalizedText#P.320" type="page"/>
+            <ptr ana="P.320" target="/o:mgs.normalizedText#P.320" type="page"/>
+            <ptr ana="P.321" target="/o:mgs.normalizedText#P.321" type="page"/>
+            <ptr ana="P.321" target="/o:mgs.normalizedText#P.321" type="page"/>
+            <ptr ana="P.323" target="/o:mgs.normalizedText#P.323" type="page"/>
+            <ptr ana="P.324" target="/o:mgs.normalizedText#P.324" type="page"/>
+            <ptr ana="P.324" target="/o:mgs.normalizedText#P.324" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.326" target="/o:mgs.normalizedText#P.326" type="page"/>
+            <ptr ana="P.326" target="/o:mgs.normalizedText#P.326" type="page"/>
+            <ptr ana="P.327" target="/o:mgs.normalizedText#P.327" type="page"/>
+            <ptr ana="P.328" target="/o:mgs.normalizedText#P.328" type="page"/>
+            <ptr ana="P.328" target="/o:mgs.normalizedText#P.328" type="page"/>
+            <ptr ana="P.334" target="/o:mgs.normalizedText#P.334" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.336" target="/o:mgs.normalizedText#P.336" type="page"/>
+            <ptr ana="P.372" target="/o:mgs.normalizedText#P.372" type="page"/>
+            <ptr ana="P.389" target="/o:mgs.normalizedText#P.389" type="page"/>
+            <ptr ana="P.393" target="/o:mgs.normalizedText#P.393" type="page"/>
+            <ptr ana="P.397" target="/o:mgs.normalizedText#P.397" type="page"/>
+            <ptr ana="P.397" target="/o:mgs.normalizedText#P.397" type="page"/>
+            <ptr ana="P.398" target="/o:mgs.normalizedText#P.398" type="page"/>
+            <ptr ana="P.398" target="/o:mgs.normalizedText#P.398" type="page"/>
+            <ptr ana="P.398" target="/o:mgs.normalizedText#P.398" type="page"/>
+            <ptr ana="P.399" target="/o:mgs.normalizedText#P.399" type="page"/>
+            <ptr ana="P.400" target="/o:mgs.normalizedText#P.400" type="page"/>
+            <ptr ana="P.405" target="/o:mgs.normalizedText#P.405" type="page"/>
+            <ptr ana="P.405" target="/o:mgs.normalizedText#P.405" type="page"/>
+            <ptr ana="P.406" target="/o:mgs.normalizedText#P.406" type="page"/>
+            <ptr ana="P.408" target="/o:mgs.normalizedText#P.408" type="page"/>
+            <ptr ana="P.408" target="/o:mgs.normalizedText#P.408" type="page"/>
+            <ptr ana="P.408" target="/o:mgs.normalizedText#P.408" type="page"/>
+            <ptr ana="P.409" target="/o:mgs.normalizedText#P.409" type="page"/>
+            <ptr ana="P.409" target="/o:mgs.normalizedText#P.409" type="page"/>
+            <ptr ana="P.409" target="/o:mgs.normalizedText#P.409" type="page"/>
+            <ptr ana="P.409" target="/o:mgs.normalizedText#P.409" type="page"/>
+            <ptr ana="P.409" target="/o:mgs.normalizedText#P.409" type="page"/>
+            <ptr ana="P.410" target="/o:mgs.normalizedText#P.410" type="page"/>
+            <ptr ana="P.411" target="/o:mgs.normalizedText#P.411" type="page"/>
+            <ptr ana="P.411" target="/o:mgs.normalizedText#P.411" type="page"/>
+            <ptr ana="P.411" target="/o:mgs.normalizedText#P.411" type="page"/>
+            <ptr ana="P.414" target="/o:mgs.normalizedText#P.414" type="page"/>
+            <ptr ana="P.415" target="/o:mgs.normalizedText#P.415" type="page"/>
+            <ptr ana="P.421" target="/o:mgs.normalizedText#P.421" type="page"/>
+            <ptr ana="P.445" target="/o:mgs.normalizedText#P.445" type="page"/>
+            <ptr ana="P.446" target="/o:mgs.normalizedText#P.446" type="page"/>
+            <ptr ana="P.446" target="/o:mgs.normalizedText#P.446" type="page"/>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+            <ptr ana="P.466" target="/o:mgs.normalizedText#P.466" type="page"/>
+            <ptr ana="P.466" target="/o:mgs.normalizedText#P.466" type="page"/>
+            <ptr ana="P.467" target="/o:mgs.normalizedText#P.467" type="page"/>
+            <ptr ana="P.471" target="/o:mgs.normalizedText#P.471" type="page"/>
+            <ptr ana="P.472" target="/o:mgs.normalizedText#P.472" type="page"/>
+            <ptr ana="P.472" target="/o:mgs.normalizedText#P.472" type="page"/>
+            <ptr ana="P.474" target="/o:mgs.normalizedText#P.474" type="page"/>
+            <ptr ana="P.480" target="/o:mgs.normalizedText#P.480" type="page"/>
+            <ptr ana="P.480" target="/o:mgs.normalizedText#P.480" type="page"/>
+            <ptr ana="P.481" target="/o:mgs.normalizedText#P.481" type="page"/>
+            <ptr ana="P.481" target="/o:mgs.normalizedText#P.481" type="page"/>
+            <ptr ana="P.490" target="/o:mgs.normalizedText#P.490" type="page"/>
+            <ptr ana="P.502" target="/o:mgs.normalizedText#P.502" type="page"/>
+            <ptr ana="P.537" target="/o:mgs.normalizedText#P.537" type="page"/>
+            <ptr ana="P.537" target="/o:mgs.normalizedText#P.537" type="page"/>
+            <ptr ana="P.537" target="/o:mgs.normalizedText#P.537" type="page"/>
+            <ptr ana="P.573" target="/o:mgs.normalizedText#P.573" type="page"/>
+            <ptr ana="P.622" target="/o:mgs.normalizedText#P.622" type="page"/>
+            <ptr ana="P.627" target="/o:mgs.normalizedText#P.627" type="page"/>
+            <ptr ana="P.633" target="/o:mgs.normalizedText#P.633" type="page"/>
+            <ptr ana="P.633" target="/o:mgs.normalizedText#P.633" type="page"/>
+            <ptr ana="P.645" target="/o:mgs.normalizedText#P.645" type="page"/>
+            <ptr ana="P.645" target="/o:mgs.normalizedText#P.645" type="page"/>
+            <ptr ana="P.647" target="/o:mgs.normalizedText#P.647" type="page"/>
+            <ptr ana="P.664" target="/o:mgs.normalizedText#P.664" type="page"/>
+            <ptr ana="P.669" target="/o:mgs.normalizedText#P.669" type="page"/>
+            <ptr ana="P.669" target="/o:mgs.normalizedText#P.669" type="page"/>
+            <ptr ana="P.670" target="/o:mgs.normalizedText#P.670" type="page"/>
+            <ptr ana="P.670" target="/o:mgs.normalizedText#P.670" type="page"/>
+            <ptr ana="P.670" target="/o:mgs.normalizedText#P.670" type="page"/>
+            <ptr ana="P.671" target="/o:mgs.normalizedText#P.671" type="page"/>
+            <ptr ana="P.671" target="/o:mgs.normalizedText#P.671" type="page"/>
+            <ptr ana="P.673" target="/o:mgs.normalizedText#P.673" type="page"/>
+            <ptr ana="P.674" target="/o:mgs.normalizedText#P.674" type="page"/>
+            <ptr ana="P.674" target="/o:mgs.normalizedText#P.674" type="page"/>
+            <ptr ana="P.674" target="/o:mgs.normalizedText#P.674" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O13">
+          <placeName type="contemporary">Bretagne</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3030293/</idno>
+        </place>
+        <place xml:id="O14">
+          <placeName type="contemporary">Brno (Tschechien)</placeName>
+          <placeName type="historical">Brünn</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3078610/</idno>
+          <linkGrp>
+            <ptr ana="P.386" target="/o:mgs.normalizedText#P.386" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O173">
+          <placeName type="contemporary">Britz</placeName>
+          <note type="description">Landgut des Grafen Schwerin</note>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2944027/</idno>
+          <linkGrp>
+            <ptr ana="P.171" target="/o:mgs.normalizedText#P.171" type="page"/>
+            <ptr ana="P.184" target="/o:mgs.normalizedText#P.184" type="page"/>
+            <ptr ana="P.192" target="/o:mgs.normalizedText#P.192" type="page"/>
+            <ptr ana="P.202" target="/o:mgs.normalizedText#P.202" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O15">
+          <placeName type="contemporary">Brüssel </placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2800866/</idno>
+          <linkGrp>
+            <ptr ana="P.8" target="/o:mgs.normalizedText#P.8" type="page"/>
+            <ptr ana="P.422" target="/o:mgs.normalizedText#P.422" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O52">
+          <placeName type="contemporary">Kassel</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2892518/</idno>
+          <linkGrp>
+            <ptr ana="P.149" target="/o:mgs.normalizedText#P.149" type="page"/>
+            <ptr ana="P.149" target="/o:mgs.normalizedText#P.149" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O17">
+          <placeName type="contemporary">Charlottenburg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2940187/</idno>
+          <linkGrp>
+            <ptr ana="P.105" target="/o:mgs.normalizedText#P.105" type="page"/>
+            <ptr ana="P.139" target="/o:mgs.normalizedText#P.139" type="page"/>
+            <ptr ana="P.437" target="/o:mgs.normalizedText#P.437" type="page"/>
+            <ptr ana="P.437" target="/o:mgs.normalizedText#P.437" type="page"/>
+            <ptr ana="P.438" target="/o:mgs.normalizedText#P.438" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O18">
+          <placeName type="contemporary">Kleve</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2887835/</idno>
+          <linkGrp>
+            <ptr ana="P.150" target="/o:mgs.normalizedText#P.150" type="page"/>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+            <ptr ana="P.610" target="/o:mgs.normalizedText#P.610" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O19">
+          <placeName type="contemporary">Köln</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2886242/</idno>
+          <linkGrp>
+            <ptr ana="P.3" target="/o:mgs.normalizedText#P.3" type="page"/>
+            <ptr ana="P.131" target="/o:mgs.normalizedText#P.131" type="page"/>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+            <ptr ana="P.499" target="/o:mgs.normalizedText#P.499" type="page"/>
+            <ptr ana="P.538" target="/o:mgs.normalizedText#P.538" type="page"/>
+            <ptr ana="P.678" target="/o:mgs.normalizedText#P.678" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O27">
+          <placeName type="contemporary">Krosno (Polen)</placeName>
+          <placeName type="historical">Krossen</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3094633/</idno>
+          <linkGrp>
+            <ptr ana="P.410" target="/o:mgs.normalizedText#P.410" type="page"/>
+            <ptr ana="P.410" target="/o:mgs.normalizedText#P.410" type="page"/>
+            <ptr ana="P.411" target="/o:mgs.normalizedText#P.411" type="page"/>
+            <ptr ana="P.412" target="/o:mgs.normalizedText#P.412" type="page"/>
+            <ptr ana="P.648" target="/o:mgs.normalizedText#P.648" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O28">
+          <placeName type="contemporary">Dänemark</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2623032/</idno>
+        </place>
+        <place xml:id="O29">
+          <placeName type="contemporary">Gdańsk (Polen)</placeName>
+          <placeName type="historical">Danzig</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3099434/</idno>
+          <linkGrp>
+            <ptr ana="P.172" target="/o:mgs.normalizedText#P.172" type="page"/>
+            <ptr ana="P.448" target="/o:mgs.normalizedText#P.448" type="page"/>
+            <ptr ana="P.509" target="/o:mgs.normalizedText#P.509" type="page"/>
+            <ptr ana="P.645" target="/o:mgs.normalizedText#P.645" type="page"/>
+            <ptr ana="P.646" target="/o:mgs.normalizedText#P.646" type="page"/>
+            <ptr ana="P.652" target="/o:mgs.normalizedText#P.652" type="page"/>
+            <ptr ana="P.652" target="/o:mgs.normalizedText#P.652" type="page"/>
+            <ptr ana="P.655" target="/o:mgs.normalizedText#P.655" type="page"/>
+            <ptr ana="P.655" target="/o:mgs.normalizedText#P.655" type="page"/>
+            <ptr ana="P.655" target="/o:mgs.normalizedText#P.655" type="page"/>
+            <ptr ana="P.656" target="/o:mgs.normalizedText#P.656" type="page"/>
+            <ptr ana="P.664" target="/o:mgs.normalizedText#P.664" type="page"/>
+            <ptr ana="P.665" target="/o:mgs.normalizedText#P.665" type="page"/>
+            <ptr ana="P.665" target="/o:mgs.normalizedText#P.665" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O121">
+          <placeName type="contemporary">Storkow</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2826403/</idno>
+          <linkGrp>
+            <ptr ana="P.146" target="/o:mgs.normalizedText#P.146" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O117">
+          <placeName type="contemporary">Dorneburg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2935743/</idno>
+          <linkGrp>
+            <ptr ana="P.21" target="/o:mgs.normalizedText#P.21" type="page"/>
+            <ptr ana="P.29" target="/o:mgs.normalizedText#P.29" type="page"/>
+            <ptr ana="P.74" target="/o:mgs.normalizedText#P.74" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O137">
+          <placeName type="contemporary">Ägypten</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/8378475/</idno>
+          <linkGrp>
+            <ptr ana="P.462" target="/o:mgs.normalizedText#P.462" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O134">
+          <placeName type="contemporary">Elbląg (Polen)</placeName>
+          <placeName type="historical">Elbing</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3099759/</idno>
+          <linkGrp>
+            <ptr ana="P.448" target="/o:mgs.normalizedText#P.448" type="page"/>
+            <ptr ana="P.448" target="/o:mgs.normalizedText#P.448" type="page"/>
+            <ptr ana="P.449" target="/o:mgs.normalizedText#P.449" type="page"/>
+            <ptr ana="P.451" target="/o:mgs.normalizedText#P.451" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O41">
+          <placeName type="contemporary">Spanien</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2510769/</idno>
+          <linkGrp>
+            <ptr ana="P.381" target="/o:mgs.normalizedText#P.381" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O32">
+          <placeName type="contemporary">Europa</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/6255148/</idno>
+          <linkGrp>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.421" target="/o:mgs.normalizedText#P.421" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O33">
+          <placeName type="contemporary">Primorsk (Polen)</placeName>
+          <placeName type="historical">Fischhausen</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/505270/</idno>
+          <linkGrp>
+            <ptr ana="P.175" target="/o:mgs.normalizedText#P.175" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O20">
+          <placeName type="contemporary">Frankreich</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3017382/</idno>
+          <linkGrp>
+            <ptr ana="P.15" target="/o:mgs.normalizedText#P.15" type="page"/>
+            <ptr ana="P.68" target="/o:mgs.normalizedText#P.68" type="page"/>
+            <ptr ana="P.87" target="/o:mgs.normalizedText#P.87" type="page"/>
+            <ptr ana="P.374" target="/o:mgs.normalizedText#P.374" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O36">
+          <placeName type="contemporary">Frankfurt am Main</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2925533/</idno>
+          <linkGrp>
+            <ptr ana="P.150" target="/o:mgs.normalizedText#P.150" type="page"/>
+            <ptr ana="P.151" target="/o:mgs.normalizedText#P.151" type="page"/>
+            <ptr ana="P.151" target="/o:mgs.normalizedText#P.151" type="page"/>
+            <ptr ana="P.151" target="/o:mgs.normalizedText#P.151" type="page"/>
+            <ptr ana="P.152" target="/o:mgs.normalizedText#P.152" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O116">
+          <placeName type="contemporary">Frankfurt an der Oder</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2925535/</idno>
+          <linkGrp>
+            <ptr ana="P.412" target="/o:mgs.normalizedText#P.412" type="page"/>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O37">
+          <placeName type="contemporary">Franche Comté (heute Teil von Bourgogne-Franche-Comté)</placeName>
+          <placeName type="historical">Freigrafschaft Burgund</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3017372/</idno>
+          <linkGrp>
+            <ptr ana="P.303" target="/o:mgs.normalizedText#P.303" type="page"/>
+            <ptr ana="P.303" target="/o:mgs.normalizedText#P.303" type="page"/>
+            <ptr ana="P.310" target="/o:mgs.normalizedText#P.310" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O38">
+          <placeName type="contemporary">Frombork (Polen)</placeName>
+          <placeName type="historical">Frauenburg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3099634/</idno>
+          <linkGrp>
+            <ptr ana="P.626" target="/o:mgs.normalizedText#P.626" type="page"/>
+            <ptr ana="P.649" target="/o:mgs.normalizedText#P.649" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O39">
+          <placeName type="contemporary">Cieszków (Polen)</placeName>
+          <placeName type="historical">Freihan</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3101330/</idno>
+          <linkGrp>
+            <ptr ana="P.310" target="/o:mgs.normalizedText#P.310" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.314" target="/o:mgs.normalizedText#P.314" type="page"/>
+            <ptr ana="P.316" target="/o:mgs.normalizedText#P.316" type="page"/>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+            <ptr ana="P.319" target="/o:mgs.normalizedText#P.319" type="page"/>
+            <ptr ana="P.320" target="/o:mgs.normalizedText#P.320" type="page"/>
+            <ptr ana="P.320" target="/o:mgs.normalizedText#P.320" type="page"/>
+            <ptr ana="P.320" target="/o:mgs.normalizedText#P.320" type="page"/>
+            <ptr ana="P.320" target="/o:mgs.normalizedText#P.320" type="page"/>
+            <ptr ana="P.321" target="/o:mgs.normalizedText#P.321" type="page"/>
+            <ptr ana="P.322" target="/o:mgs.normalizedText#P.322" type="page"/>
+            <ptr ana="P.323" target="/o:mgs.normalizedText#P.323" type="page"/>
+            <ptr ana="P.323" target="/o:mgs.normalizedText#P.323" type="page"/>
+            <ptr ana="P.323" target="/o:mgs.normalizedText#P.323" type="page"/>
+            <ptr ana="P.323" target="/o:mgs.normalizedText#P.323" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.326" target="/o:mgs.normalizedText#P.326" type="page"/>
+            <ptr ana="P.326" target="/o:mgs.normalizedText#P.326" type="page"/>
+            <ptr ana="P.326" target="/o:mgs.normalizedText#P.326" type="page"/>
+            <ptr ana="P.327" target="/o:mgs.normalizedText#P.327" type="page"/>
+            <ptr ana="P.332" target="/o:mgs.normalizedText#P.332" type="page"/>
+            <ptr ana="P.333" target="/o:mgs.normalizedText#P.333" type="page"/>
+            <ptr ana="P.334" target="/o:mgs.normalizedText#P.334" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.349" target="/o:mgs.normalizedText#P.349" type="page"/>
+            <ptr ana="P.356" target="/o:mgs.normalizedText#P.356" type="page"/>
+            <ptr ana="P.366" target="/o:mgs.normalizedText#P.366" type="page"/>
+            <ptr ana="P.367" target="/o:mgs.normalizedText#P.367" type="page"/>
+            <ptr ana="P.367" target="/o:mgs.normalizedText#P.367" type="page"/>
+            <ptr ana="P.374" target="/o:mgs.normalizedText#P.374" type="page"/>
+            <ptr ana="P.394" target="/o:mgs.normalizedText#P.394" type="page"/>
+            <ptr ana="P.394" target="/o:mgs.normalizedText#P.394" type="page"/>
+            <ptr ana="P.394" target="/o:mgs.normalizedText#P.394" type="page"/>
+            <ptr ana="P.394" target="/o:mgs.normalizedText#P.394" type="page"/>
+            <ptr ana="P.397" target="/o:mgs.normalizedText#P.397" type="page"/>
+            <ptr ana="P.397" target="/o:mgs.normalizedText#P.397" type="page"/>
+            <ptr ana="P.407" target="/o:mgs.normalizedText#P.407" type="page"/>
+            <ptr ana="P.409" target="/o:mgs.normalizedText#P.409" type="page"/>
+            <ptr ana="P.413" target="/o:mgs.normalizedText#P.413" type="page"/>
+            <ptr ana="P.417" target="/o:mgs.normalizedText#P.417" type="page"/>
+            <ptr ana="P.420" target="/o:mgs.normalizedText#P.420" type="page"/>
+            <ptr ana="P.423" target="/o:mgs.normalizedText#P.423" type="page"/>
+            <ptr ana="P.425" target="/o:mgs.normalizedText#P.425" type="page"/>
+            <ptr ana="P.429" target="/o:mgs.normalizedText#P.429" type="page"/>
+            <ptr ana="P.432" target="/o:mgs.normalizedText#P.432" type="page"/>
+            <ptr ana="P.438" target="/o:mgs.normalizedText#P.438" type="page"/>
+            <ptr ana="P.440" target="/o:mgs.normalizedText#P.440" type="page"/>
+            <ptr ana="P.442" target="/o:mgs.normalizedText#P.442" type="page"/>
+            <ptr ana="P.443" target="/o:mgs.normalizedText#P.443" type="page"/>
+            <ptr ana="P.443" target="/o:mgs.normalizedText#P.443" type="page"/>
+            <ptr ana="P.445" target="/o:mgs.normalizedText#P.445" type="page"/>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+            <ptr ana="P.448" target="/o:mgs.normalizedText#P.448" type="page"/>
+            <ptr ana="P.466" target="/o:mgs.normalizedText#P.466" type="page"/>
+            <ptr ana="P.466" target="/o:mgs.normalizedText#P.466" type="page"/>
+            <ptr ana="P.466" target="/o:mgs.normalizedText#P.466" type="page"/>
+            <ptr ana="P.467" target="/o:mgs.normalizedText#P.467" type="page"/>
+            <ptr ana="P.471" target="/o:mgs.normalizedText#P.471" type="page"/>
+            <ptr ana="P.473" target="/o:mgs.normalizedText#P.473" type="page"/>
+            <ptr ana="P.481" target="/o:mgs.normalizedText#P.481" type="page"/>
+            <ptr ana="P.481" target="/o:mgs.normalizedText#P.481" type="page"/>
+            <ptr ana="P.482" target="/o:mgs.normalizedText#P.482" type="page"/>
+            <ptr ana="P.482" target="/o:mgs.normalizedText#P.482" type="page"/>
+            <ptr ana="P.482" target="/o:mgs.normalizedText#P.482" type="page"/>
+            <ptr ana="P.484" target="/o:mgs.normalizedText#P.484" type="page"/>
+            <ptr ana="P.485" target="/o:mgs.normalizedText#P.485" type="page"/>
+            <ptr ana="P.489" target="/o:mgs.normalizedText#P.489" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O153">
+          <placeName type="contemporary">Kamenka (Russland)</placeName>
+          <placeName type="historical">Friedrichstein</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/825748/</idno>
+          <linkGrp>
+            <ptr ana="P.457" target="/o:mgs.normalizedText#P.457" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O42">
+          <placeName type="contemporary">Dobre Miasto (Polen)</placeName>
+          <placeName type="historical">Guttstadt</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/773148/</idno>
+          <linkGrp>
+            <ptr ana="P.646" target="/o:mgs.normalizedText#P.646" type="page"/>
+            <ptr ana="P.648" target="/o:mgs.normalizedText#P.648" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O44">
+          <placeName type="contemporary">nicht identifiziertre Ort</placeName>
+          <linkGrp>
+            <ptr ana="P.194" target="/o:mgs.normalizedText#P.194" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O24">
+          <placeName type="contemporary">Hannover</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2910831/</idno>
+          <linkGrp>
+            <ptr ana="P.76" target="/o:mgs.normalizedText#P.76" type="page"/>
+            <ptr ana="P.240" target="/o:mgs.normalizedText#P.240" type="page"/>
+            <ptr ana="P.481" target="/o:mgs.normalizedText#P.481" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O170">
+          <placeName type="contemporary">Heidelberg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2907914/</idno>
+          <linkGrp>
+            <ptr ana="P.461" target="/o:mgs.normalizedText#P.461" type="page"/>
+            <ptr ana="P.462" target="/o:mgs.normalizedText#P.462" type="page"/>
+            <ptr ana="P.467" target="/o:mgs.normalizedText#P.467" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O45">
+          <placeName type="contemporary">Lidzbark Warminski (Polen)</placeName>
+          <placeName type="historical">Heilsberg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/766307/</idno>
+          <linkGrp>
+            <ptr ana="P.526" target="/o:mgs.normalizedText#P.526" type="page"/>
+            <ptr ana="P.541" target="/o:mgs.normalizedText#P.541" type="page"/>
+            <ptr ana="P.541" target="/o:mgs.normalizedText#P.541" type="page"/>
+            <ptr ana="P.570" target="/o:mgs.normalizedText#P.570" type="page"/>
+            <ptr ana="P.570" target="/o:mgs.normalizedText#P.570" type="page"/>
+            <ptr ana="P.626" target="/o:mgs.normalizedText#P.626" type="page"/>
+            <ptr ana="P.634" target="/o:mgs.normalizedText#P.634" type="page"/>
+            <ptr ana="P.634" target="/o:mgs.normalizedText#P.634" type="page"/>
+            <ptr ana="P.639" target="/o:mgs.normalizedText#P.639" type="page"/>
+            <ptr ana="P.643" target="/o:mgs.normalizedText#P.643" type="page"/>
+            <ptr ana="P.645" target="/o:mgs.normalizedText#P.645" type="page"/>
+            <ptr ana="P.661" target="/o:mgs.normalizedText#P.661" type="page"/>
+            <ptr ana="P.661" target="/o:mgs.normalizedText#P.661" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O46">
+          <placeName type="contemporary">Hessen</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2905330/</idno>
+        </place>
+        <place xml:id="O47">
+          <placeName type="contemporary">Hietzing (heute 13. Wiener Gemeindebezirk)</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2776420/</idno>
+          <linkGrp>
+            <ptr ana="P.377" target="/o:mgs.normalizedText#P.377" type="page"/>
+            <ptr ana="P.379" target="/o:mgs.normalizedText#P.379" type="page"/>
+            <ptr ana="P.380" target="/o:mgs.normalizedText#P.380" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O49">
+          <placeName type="contemporary">Holland / Niederlande</placeName>
+          <placeName type="historical">Holland / Vereinigte Niederlande</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2750405/</idno>
+          <linkGrp>
+            <ptr ana="P.56" target="/o:mgs.normalizedText#P.56" type="page"/>
+            <ptr ana="P.118" target="/o:mgs.normalizedText#P.118" type="page"/>
+            <ptr ana="P.120" target="/o:mgs.normalizedText#P.120" type="page"/>
+            <ptr ana="P.123" target="/o:mgs.normalizedText#P.123" type="page"/>
+            <ptr ana="P.126" target="/o:mgs.normalizedText#P.126" type="page"/>
+            <ptr ana="P.171" target="/o:mgs.normalizedText#P.171" type="page"/>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.454" target="/o:mgs.normalizedText#P.454" type="page"/>
+            <ptr ana="P.456" target="/o:mgs.normalizedText#P.456" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O51">
+          <placeName type="contemporary">Ungarn</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/719819/</idno>
+          <linkGrp>
+            <ptr ana="P.250" target="/o:mgs.normalizedText#P.250" type="page"/>
+            <ptr ana="P.267" target="/o:mgs.normalizedText#P.267" type="page"/>
+            <ptr ana="P.276" target="/o:mgs.normalizedText#P.276" type="page"/>
+            <ptr ana="P.288" target="/o:mgs.normalizedText#P.288" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.331" target="/o:mgs.normalizedText#P.331" type="page"/>
+            <ptr ana="P.363" target="/o:mgs.normalizedText#P.363" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O55">
+          <placeName type="contemporary">Italien</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3175395/</idno>
+          <linkGrp>
+            <ptr ana="P.307" target="/o:mgs.normalizedText#P.307" type="page"/>
+            <ptr ana="P.315" target="/o:mgs.normalizedText#P.315" type="page"/>
+            <ptr ana="P.364" target="/o:mgs.normalizedText#P.364" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O151">
+          <placeName type="contemporary">Karlovy Vary (Tschechien)</placeName>
+          <placeName type="historical">Karlsbad</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3073803/</idno>
+          <linkGrp>
+            <ptr ana="P.168" target="/o:mgs.normalizedText#P.168" type="page"/>
+            <ptr ana="P.196" target="/o:mgs.normalizedText#P.196" type="page"/>
+            <ptr ana="P.320" target="/o:mgs.normalizedText#P.320" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O56">
+          <placeName type="contemporary">Kaliningrad (Russland)</placeName>
+          <placeName type="historical">Königsberg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/554234/</idno>
+          <linkGrp>
+            <ptr ana="P.172" target="/o:mgs.normalizedText#P.172" type="page"/>
+            <ptr ana="P.172" target="/o:mgs.normalizedText#P.172" type="page"/>
+            <ptr ana="P.172" target="/o:mgs.normalizedText#P.172" type="page"/>
+            <ptr ana="P.176" target="/o:mgs.normalizedText#P.176" type="page"/>
+            <ptr ana="P.179" target="/o:mgs.normalizedText#P.179" type="page"/>
+            <ptr ana="P.183" target="/o:mgs.normalizedText#P.183" type="page"/>
+            <ptr ana="P.187" target="/o:mgs.normalizedText#P.187" type="page"/>
+            <ptr ana="P.189" target="/o:mgs.normalizedText#P.189" type="page"/>
+            <ptr ana="P.190" target="/o:mgs.normalizedText#P.190" type="page"/>
+            <ptr ana="P.190" target="/o:mgs.normalizedText#P.190" type="page"/>
+            <ptr ana="P.192" target="/o:mgs.normalizedText#P.192" type="page"/>
+            <ptr ana="P.194" target="/o:mgs.normalizedText#P.194" type="page"/>
+            <ptr ana="P.440" target="/o:mgs.normalizedText#P.440" type="page"/>
+            <ptr ana="P.443" target="/o:mgs.normalizedText#P.443" type="page"/>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+            <ptr ana="P.449" target="/o:mgs.normalizedText#P.449" type="page"/>
+            <ptr ana="P.457" target="/o:mgs.normalizedText#P.457" type="page"/>
+            <ptr ana="P.459" target="/o:mgs.normalizedText#P.459" type="page"/>
+            <ptr ana="P.459" target="/o:mgs.normalizedText#P.459" type="page"/>
+            <ptr ana="P.478" target="/o:mgs.normalizedText#P.478" type="page"/>
+            <ptr ana="P.483" target="/o:mgs.normalizedText#P.483" type="page"/>
+            <ptr ana="P.501" target="/o:mgs.normalizedText#P.501" type="page"/>
+            <ptr ana="P.502" target="/o:mgs.normalizedText#P.502" type="page"/>
+            <ptr ana="P.503" target="/o:mgs.normalizedText#P.503" type="page"/>
+            <ptr ana="P.515" target="/o:mgs.normalizedText#P.515" type="page"/>
+            <ptr ana="P.521" target="/o:mgs.normalizedText#P.521" type="page"/>
+            <ptr ana="P.521" target="/o:mgs.normalizedText#P.521" type="page"/>
+            <ptr ana="P.526" target="/o:mgs.normalizedText#P.526" type="page"/>
+            <ptr ana="P.533" target="/o:mgs.normalizedText#P.533" type="page"/>
+            <ptr ana="P.537" target="/o:mgs.normalizedText#P.537" type="page"/>
+            <ptr ana="P.540" target="/o:mgs.normalizedText#P.540" type="page"/>
+            <ptr ana="P.546" target="/o:mgs.normalizedText#P.546" type="page"/>
+            <ptr ana="P.549" target="/o:mgs.normalizedText#P.549" type="page"/>
+            <ptr ana="P.552" target="/o:mgs.normalizedText#P.552" type="page"/>
+            <ptr ana="P.570" target="/o:mgs.normalizedText#P.570" type="page"/>
+            <ptr ana="P.572" target="/o:mgs.normalizedText#P.572" type="page"/>
+            <ptr ana="P.572" target="/o:mgs.normalizedText#P.572" type="page"/>
+            <ptr ana="P.572" target="/o:mgs.normalizedText#P.572" type="page"/>
+            <ptr ana="P.573" target="/o:mgs.normalizedText#P.573" type="page"/>
+            <ptr ana="P.575" target="/o:mgs.normalizedText#P.575" type="page"/>
+            <ptr ana="P.575" target="/o:mgs.normalizedText#P.575" type="page"/>
+            <ptr ana="P.577" target="/o:mgs.normalizedText#P.577" type="page"/>
+            <ptr ana="P.585" target="/o:mgs.normalizedText#P.585" type="page"/>
+            <ptr ana="P.588" target="/o:mgs.normalizedText#P.588" type="page"/>
+            <ptr ana="P.602" target="/o:mgs.normalizedText#P.602" type="page"/>
+            <ptr ana="P.602" target="/o:mgs.normalizedText#P.602" type="page"/>
+            <ptr ana="P.611" target="/o:mgs.normalizedText#P.611" type="page"/>
+            <ptr ana="P.614" target="/o:mgs.normalizedText#P.614" type="page"/>
+            <ptr ana="P.614" target="/o:mgs.normalizedText#P.614" type="page"/>
+            <ptr ana="P.624" target="/o:mgs.normalizedText#P.624" type="page"/>
+            <ptr ana="P.638" target="/o:mgs.normalizedText#P.638" type="page"/>
+            <ptr ana="P.643" target="/o:mgs.normalizedText#P.643" type="page"/>
+            <ptr ana="P.645" target="/o:mgs.normalizedText#P.645" type="page"/>
+            <ptr ana="P.647" target="/o:mgs.normalizedText#P.647" type="page"/>
+            <ptr ana="P.647" target="/o:mgs.normalizedText#P.647" type="page"/>
+            <ptr ana="P.652" target="/o:mgs.normalizedText#P.652" type="page"/>
+            <ptr ana="P.655" target="/o:mgs.normalizedText#P.655" type="page"/>
+            <ptr ana="P.661" target="/o:mgs.normalizedText#P.661" type="page"/>
+            <ptr ana="P.661" target="/o:mgs.normalizedText#P.661" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O180">
+          <placeName type="contemporary">Chełmno (Polen)</placeName>
+          <placeName type="historical">Kulm</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3101795/</idno>
+          <linkGrp>
+            <ptr ana="P.645" target="/o:mgs.normalizedText#P.645" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O105">
+          <placeName type="contemporary">Österreich</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2782113/</idno>
+          <linkGrp>
+            <ptr ana="P.614" target="/o:mgs.normalizedText#P.614" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O106">
+          <placeName type="contemporary">Heiliges Römisches Reich</placeName>
+          <idno type="URI">https://explore.gnd.network/gnd/2035457-5</idno>
+          <linkGrp>
+            <ptr ana="P.206" target="/o:mgs.normalizedText#P.206" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O57">
+          <placeName type="contemporary">Den Haag</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2747372/</idno>
+          <linkGrp>
+            <ptr ana="P.16" target="/o:mgs.normalizedText#P.16" type="page"/>
+            <ptr ana="P.17" target="/o:mgs.normalizedText#P.17" type="page"/>
+            <ptr ana="P.24" target="/o:mgs.normalizedText#P.24" type="page"/>
+            <ptr ana="P.25" target="/o:mgs.normalizedText#P.25" type="page"/>
+            <ptr ana="P.31" target="/o:mgs.normalizedText#P.31" type="page"/>
+            <ptr ana="P.44" target="/o:mgs.normalizedText#P.44" type="page"/>
+            <ptr ana="P.70" target="/o:mgs.normalizedText#P.70" type="page"/>
+            <ptr ana="P.123" target="/o:mgs.normalizedText#P.123" type="page"/>
+            <ptr ana="P.123" target="/o:mgs.normalizedText#P.123" type="page"/>
+            <ptr ana="P.150" target="/o:mgs.normalizedText#P.150" type="page"/>
+            <ptr ana="P.201" target="/o:mgs.normalizedText#P.201" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O59">
+          <placeName type="contemporary">Górowo Iławeckie (Polen)</placeName>
+          <placeName type="historical">Landsberg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/771779/</idno>
+          <linkGrp>
+            <ptr ana="P.545" target="/o:mgs.normalizedText#P.545" type="page"/>
+            <ptr ana="P.546" target="/o:mgs.normalizedText#P.546" type="page"/>
+            <ptr ana="P.547" target="/o:mgs.normalizedText#P.547" type="page"/>
+            <ptr ana="P.548" target="/o:mgs.normalizedText#P.548" type="page"/>
+            <ptr ana="P.549" target="/o:mgs.normalizedText#P.549" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O60">
+          <placeName type="contemporary">Laxenburg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2772810/</idno>
+          <linkGrp>
+            <ptr ana="P.286" target="/o:mgs.normalizedText#P.286" type="page"/>
+            <ptr ana="P.287" target="/o:mgs.normalizedText#P.287" type="page"/>
+            <ptr ana="P.287" target="/o:mgs.normalizedText#P.287" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O204">
+          <placeName type="contemporary">Liège (Belgien)</placeName>
+          <placeName type="historical">Lüttich</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2792413/</idno>
+        </place>
+        <place xml:id="O205">
+          <placeName type="contemporary">nicht identifiziertes Landgut in Polen</placeName>
+          <linkGrp>
+            <ptr ana="P.663" target="/o:mgs.normalizedText#P.663" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O61">
+          <placeName type="contemporary">Leszno (Polen)</placeName>
+          <placeName type="historical">Lissa</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3093524/</idno>
+          <linkGrp>
+            <ptr ana="P.398" target="/o:mgs.normalizedText#P.398" type="page"/>
+            <ptr ana="P.399" target="/o:mgs.normalizedText#P.399" type="page"/>
+            <ptr ana="P.399" target="/o:mgs.normalizedText#P.399" type="page"/>
+            <ptr ana="P.400" target="/o:mgs.normalizedText#P.400" type="page"/>
+            <ptr ana="P.400" target="/o:mgs.normalizedText#P.400" type="page"/>
+            <ptr ana="P.400" target="/o:mgs.normalizedText#P.400" type="page"/>
+            <ptr ana="P.405" target="/o:mgs.normalizedText#P.405" type="page"/>
+            <ptr ana="P.409" target="/o:mgs.normalizedText#P.409" type="page"/>
+            <ptr ana="P.424" target="/o:mgs.normalizedText#P.424" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O62">
+          <placeName type="contemporary">Litauen</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/597427/</idno>
+          <linkGrp>
+            <ptr ana="P.612" target="/o:mgs.normalizedText#P.612" type="page"/>
+            <ptr ana="P.633" target="/o:mgs.normalizedText#P.633" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O111">
+          <placeName type="contemporary">Kwidzyn (Polen)</placeName>
+          <placeName type="historical">Marienwerder</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3094086/</idno>
+          <linkGrp>
+            <ptr ana="P.89" target="/o:mgs.normalizedText#P.89" type="page"/>
+            <ptr ana="P.194" target="/o:mgs.normalizedText#P.194" type="page"/>
+            <ptr ana="P.526" target="/o:mgs.normalizedText#P.526" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O141">
+          <placeName type="contemporary">Pieniężno (Polen)</placeName>
+          <placeName type="historical">Mehlsack</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/762311/</idno>
+          <linkGrp>
+            <ptr ana="P.628" target="/o:mgs.normalizedText#P.628" type="page"/>
+            <ptr ana="P.629" target="/o:mgs.normalizedText#P.629" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O146">
+          <placeName type="contemporary">Prądocinek (Polen)</placeName>
+          <placeName type="historical">Neubrück</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://www.geonames.org/maps/google_51.9894_15.0664.html</idno>
+          <linkGrp>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O200">
+          <placeName type="contemporary">Nothberg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2861764/</idno>
+          <linkGrp>
+            <ptr ana="P.303" target="/o:mgs.normalizedText#P.303" type="page"/>
+            <ptr ana="P.310" target="/o:mgs.normalizedText#P.310" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O133">
+          <placeName type="contemporary">Mariazell</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2771893/</idno>
+          <linkGrp>
+            <ptr ana="P.228" target="/o:mgs.normalizedText#P.228" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O203">
+          <placeName type="contemporary">P., nicht identifiziertes Dorf am Meer in Holland</placeName>
+          <linkGrp>
+            <ptr ana="P.123" target="/o:mgs.normalizedText#P.123" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O65">
+          <placeName type="contemporary">Paris</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2988507/</idno>
+          <linkGrp>
+            <ptr ana="P.16" target="/o:mgs.normalizedText#P.16" type="page"/>
+            <ptr ana="P.215" target="/o:mgs.normalizedText#P.215" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O72">
+          <placeName type="contemporary">Paustry (Polen)</placeName>
+          <placeName type="historical">Paustern</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://www.geonames.org/maps/google_54.3025_20.4544.html</idno>
+          <linkGrp>
+            <ptr ana="P.100" target="/o:mgs.normalizedText#P.100" type="page"/>
+            <ptr ana="P.546" target="/o:mgs.normalizedText#P.546" type="page"/>
+            <ptr ana="P.546" target="/o:mgs.normalizedText#P.546" type="page"/>
+            <ptr ana="P.578" target="/o:mgs.normalizedText#P.578" type="page"/>
+            <ptr ana="P.580" target="/o:mgs.normalizedText#P.580" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O67">
+          <placeName type="contemporary">habsburgische Länder</placeName>
+          <linkGrp>
+            <ptr ana="P.645" target="/o:mgs.normalizedText#P.645" type="page"/>
+            <ptr ana="P.656" target="/o:mgs.normalizedText#P.656" type="page"/>
+            <ptr ana="P.658" target="/o:mgs.normalizedText#P.658" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O131">
+          <placeName type="contemporary">Peitz</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/6550658/</idno>
+          <linkGrp>
+            <ptr ana="P.227" target="/o:mgs.normalizedText#P.227" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O202">
+          <placeName type="contemporary">nicht identifizierte Stadt nahe Rosendaël</placeName>
+          <linkGrp>
+            <ptr ana="P.120" target="/o:mgs.normalizedText#P.120" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O101">
+          <placeName type="contemporary">nicht identifiziertes Gut des Grafen Schwerin nahe Walsleben</placeName>
+          <linkGrp>
+            <ptr ana="P.431" target="/o:mgs.normalizedText#P.431" type="page"/>
+            <ptr ana="P.432" target="/o:mgs.normalizedText#P.432" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O68">
+          <placeName type="contemporary">Baltijsk (Russland)</placeName>
+          <placeName type="historical">Pillau</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2609906/</idno>
+          <linkGrp>
+            <ptr ana="P.174" target="/o:mgs.normalizedText#P.174" type="page"/>
+            <ptr ana="P.175" target="/o:mgs.normalizedText#P.175" type="page"/>
+            <ptr ana="P.175" target="/o:mgs.normalizedText#P.175" type="page"/>
+            <ptr ana="P.316" target="/o:mgs.normalizedText#P.316" type="page"/>
+            <ptr ana="P.613" target="/o:mgs.normalizedText#P.613" type="page"/>
+            <ptr ana="P.613" target="/o:mgs.normalizedText#P.613" type="page"/>
+            <ptr ana="P.652" target="/o:mgs.normalizedText#P.652" type="page"/>
+            <ptr ana="P.659" target="/o:mgs.normalizedText#P.659" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O21">
+          <placeName type="contemporary">Polen </placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/798544/</idno>
+          <linkGrp>
+            <ptr ana="P.76" target="/o:mgs.normalizedText#P.76" type="page"/>
+            <ptr ana="P.76" target="/o:mgs.normalizedText#P.76" type="page"/>
+            <ptr ana="P.147" target="/o:mgs.normalizedText#P.147" type="page"/>
+            <ptr ana="P.226" target="/o:mgs.normalizedText#P.226" type="page"/>
+            <ptr ana="P.248" target="/o:mgs.normalizedText#P.248" type="page"/>
+            <ptr ana="P.253" target="/o:mgs.normalizedText#P.253" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.454" target="/o:mgs.normalizedText#P.454" type="page"/>
+            <ptr ana="P.454" target="/o:mgs.normalizedText#P.454" type="page"/>
+            <ptr ana="P.527" target="/o:mgs.normalizedText#P.527" type="page"/>
+            <ptr ana="P.543" target="/o:mgs.normalizedText#P.543" type="page"/>
+            <ptr ana="P.651" target="/o:mgs.normalizedText#P.651" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O64">
+          <placeName type="contemporary">Pommern</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3088388/</idno>
+          <linkGrp>
+            <ptr ana="P.194" target="/o:mgs.normalizedText#P.194" type="page"/>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O43">
+          <placeName type="contemporary">Südpommern</placeName>
+          <placeName type="historical">Südpommern</placeName>
+          <idno type="URI">http://d-nb.info/gnd/4599298-8</idno>
+          <linkGrp>
+            <ptr ana="P.203" target="/o:mgs.normalizedText#P.203" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O71">
+          <placeName type="contemporary">Potsdam</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2852458/</idno>
+          <idno type="URI">http://d-nb.info/gnd/4046744-2  </idno>
+          <linkGrp>
+            <ptr ana="P.135" target="/o:mgs.normalizedText#P.135" type="page"/>
+            <ptr ana="P.140" target="/o:mgs.normalizedText#P.140" type="page"/>
+            <ptr ana="P.145" target="/o:mgs.normalizedText#P.145" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O174">
+          <placeName type="contemporary">Prädikow (heute Ortsteil von Prötzel in Brandenburg)</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2852368/</idno>
+          <linkGrp>
+            <ptr ana="P.100" target="/o:mgs.normalizedText#P.100" type="page"/>
+            <ptr ana="P.116" target="/o:mgs.normalizedText#P.116" type="page"/>
+            <ptr ana="P.184" target="/o:mgs.normalizedText#P.184" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O22">
+          <placeName type="contemporary">Königreich Preußen</placeName>
+          <idno type="URI">http://d-nb.info/gnd/4047194-9 </idno>
+          <linkGrp>
+            <ptr ana="P.42" target="/o:mgs.normalizedText#P.42" type="page"/>
+            <ptr ana="P.42" target="/o:mgs.normalizedText#P.42" type="page"/>
+            <ptr ana="P.42" target="/o:mgs.normalizedText#P.42" type="page"/>
+            <ptr ana="P.48" target="/o:mgs.normalizedText#P.48" type="page"/>
+            <ptr ana="P.48" target="/o:mgs.normalizedText#P.48" type="page"/>
+            <ptr ana="P.49" target="/o:mgs.normalizedText#P.49" type="page"/>
+            <ptr ana="P.55" target="/o:mgs.normalizedText#P.55" type="page"/>
+            <ptr ana="P.89" target="/o:mgs.normalizedText#P.89" type="page"/>
+            <ptr ana="P.158" target="/o:mgs.normalizedText#P.158" type="page"/>
+            <ptr ana="P.171" target="/o:mgs.normalizedText#P.171" type="page"/>
+            <ptr ana="P.171" target="/o:mgs.normalizedText#P.171" type="page"/>
+            <ptr ana="P.180" target="/o:mgs.normalizedText#P.180" type="page"/>
+            <ptr ana="P.191" target="/o:mgs.normalizedText#P.191" type="page"/>
+            <ptr ana="P.192" target="/o:mgs.normalizedText#P.192" type="page"/>
+            <ptr ana="P.192" target="/o:mgs.normalizedText#P.192" type="page"/>
+            <ptr ana="P.192" target="/o:mgs.normalizedText#P.192" type="page"/>
+            <ptr ana="P.198" target="/o:mgs.normalizedText#P.198" type="page"/>
+            <ptr ana="P.198" target="/o:mgs.normalizedText#P.198" type="page"/>
+            <ptr ana="P.220" target="/o:mgs.normalizedText#P.220" type="page"/>
+            <ptr ana="P.248" target="/o:mgs.normalizedText#P.248" type="page"/>
+            <ptr ana="P.256" target="/o:mgs.normalizedText#P.256" type="page"/>
+            <ptr ana="P.289" target="/o:mgs.normalizedText#P.289" type="page"/>
+            <ptr ana="P.290" target="/o:mgs.normalizedText#P.290" type="page"/>
+            <ptr ana="P.299" target="/o:mgs.normalizedText#P.299" type="page"/>
+            <ptr ana="P.300" target="/o:mgs.normalizedText#P.300" type="page"/>
+            <ptr ana="P.303" target="/o:mgs.normalizedText#P.303" type="page"/>
+            <ptr ana="P.303" target="/o:mgs.normalizedText#P.303" type="page"/>
+            <ptr ana="P.316" target="/o:mgs.normalizedText#P.316" type="page"/>
+            <ptr ana="P.323" target="/o:mgs.normalizedText#P.323" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.327" target="/o:mgs.normalizedText#P.327" type="page"/>
+            <ptr ana="P.327" target="/o:mgs.normalizedText#P.327" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.359" target="/o:mgs.normalizedText#P.359" type="page"/>
+            <ptr ana="P.370" target="/o:mgs.normalizedText#P.370" type="page"/>
+            <ptr ana="P.374" target="/o:mgs.normalizedText#P.374" type="page"/>
+            <ptr ana="P.397" target="/o:mgs.normalizedText#P.397" type="page"/>
+            <ptr ana="P.421" target="/o:mgs.normalizedText#P.421" type="page"/>
+            <ptr ana="P.439" target="/o:mgs.normalizedText#P.439" type="page"/>
+            <ptr ana="P.440" target="/o:mgs.normalizedText#P.440" type="page"/>
+            <ptr ana="P.441" target="/o:mgs.normalizedText#P.441" type="page"/>
+            <ptr ana="P.442" target="/o:mgs.normalizedText#P.442" type="page"/>
+            <ptr ana="P.446" target="/o:mgs.normalizedText#P.446" type="page"/>
+            <ptr ana="P.446" target="/o:mgs.normalizedText#P.446" type="page"/>
+            <ptr ana="P.446" target="/o:mgs.normalizedText#P.446" type="page"/>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+            <ptr ana="P.449" target="/o:mgs.normalizedText#P.449" type="page"/>
+            <ptr ana="P.466" target="/o:mgs.normalizedText#P.466" type="page"/>
+            <ptr ana="P.480" target="/o:mgs.normalizedText#P.480" type="page"/>
+            <ptr ana="P.486" target="/o:mgs.normalizedText#P.486" type="page"/>
+            <ptr ana="P.502" target="/o:mgs.normalizedText#P.502" type="page"/>
+            <ptr ana="P.502" target="/o:mgs.normalizedText#P.502" type="page"/>
+            <ptr ana="P.504" target="/o:mgs.normalizedText#P.504" type="page"/>
+            <ptr ana="P.545" target="/o:mgs.normalizedText#P.545" type="page"/>
+            <ptr ana="P.586" target="/o:mgs.normalizedText#P.586" type="page"/>
+            <ptr ana="P.592" target="/o:mgs.normalizedText#P.592" type="page"/>
+            <ptr ana="P.593" target="/o:mgs.normalizedText#P.593" type="page"/>
+            <ptr ana="P.616" target="/o:mgs.normalizedText#P.616" type="page"/>
+            <ptr ana="P.623" target="/o:mgs.normalizedText#P.623" type="page"/>
+            <ptr ana="P.624" target="/o:mgs.normalizedText#P.624" type="page"/>
+            <ptr ana="P.642" target="/o:mgs.normalizedText#P.642" type="page"/>
+            <ptr ana="P.643" target="/o:mgs.normalizedText#P.643" type="page"/>
+            <ptr ana="P.647" target="/o:mgs.normalizedText#P.647" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O138">
+          <placeName type="contemporary">brandenburg-preußische Länder</placeName>
+          <idno type="URI">https://d-nb.info/gnd/4047194-9</idno>
+          <linkGrp>
+            <ptr ana="P.624" target="/o:mgs.normalizedText#P.624" type="page"/>
+            <ptr ana="P.647" target="/o:mgs.normalizedText#P.647" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O126">
+          <placeName type="contemporary">Pasłęk (Polen)</placeName>
+          <placeName type="historical"> Preußisch Holland</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3089392/</idno>
+          <linkGrp>
+            <ptr ana="P.573" target="/o:mgs.normalizedText#P.573" type="page"/>
+            <ptr ana="P.573" target="/o:mgs.normalizedText#P.573" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O76">
+          <placeName type="contemporary">Ramah</placeName>
+          <note type="description">antike Stadt in Israel</note>
+          <linkGrp>
+            <ptr ana="P.195" target="/o:mgs.normalizedText#P.195" type="page"/>
+            <ptr ana="P.618" target="/o:mgs.normalizedText#P.618" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O77">
+          <placeName type="contemporary">Regensburg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2849483/</idno>
+          <linkGrp>
+            <ptr ana="P.220" target="/o:mgs.normalizedText#P.220" type="page"/>
+            <ptr ana="P.221" target="/o:mgs.normalizedText#P.221" type="page"/>
+            <ptr ana="P.232" target="/o:mgs.normalizedText#P.232" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O80">
+          <placeName type="contemporary">Rom</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3169070/</idno>
+          <linkGrp>
+            <ptr ana="P.257" target="/o:mgs.normalizedText#P.257" type="page"/>
+            <ptr ana="P.284" target="/o:mgs.normalizedText#P.284" type="page"/>
+            <ptr ana="P.642" target="/o:mgs.normalizedText#P.642" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O135">
+          <placeName type="contemporary">Rosendahl / Rosendaël</placeName>
+          <placeName type="historical">Rosendael</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2747863/</idno>
+          <linkGrp>
+            <ptr ana="P.7" target="/o:mgs.normalizedText#P.7" type="page"/>
+            <ptr ana="P.152" target="/o:mgs.normalizedText#P.152" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O83">
+          <placeName type="contemporary">Święta Lipka (Polen)</placeName>
+          <placeName type="historical">Heiligelinde</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/757603/</idno>
+          <linkGrp>
+            <ptr ana="P.611" target="/o:mgs.normalizedText#P.611" type="page"/>
+            <ptr ana="P.635" target="/o:mgs.normalizedText#P.635" type="page"/>
+            <ptr ana="P.638" target="/o:mgs.normalizedText#P.638" type="page"/>
+            <ptr ana="P.639" target="/o:mgs.normalizedText#P.639" type="page"/>
+            <ptr ana="P.640" target="/o:mgs.normalizedText#P.640" type="page"/>
+            <ptr ana="P.640" target="/o:mgs.normalizedText#P.640" type="page"/>
+            <ptr ana="P.643" target="/o:mgs.normalizedText#P.643" type="page"/>
+            <ptr ana="P.648" target="/o:mgs.normalizedText#P.648" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O84">
+          <placeName type="contemporary">Sachsen</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2842566/</idno>
+          <idno type="URI">https://explore.gnd.network/gnd/4051176-5</idno>
+          <linkGrp>
+            <ptr ana="P.202" target="/o:mgs.normalizedText#P.202" type="page"/>
+            <ptr ana="P.231" target="/o:mgs.normalizedText#P.231" type="page"/>
+            <ptr ana="P.248" target="/o:mgs.normalizedText#P.248" type="page"/>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.422" target="/o:mgs.normalizedText#P.422" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O128">
+          <placeName type="contemporary">Częstochowa (Polen)</placeName>
+          <placeName type="historical">Tschenstochau</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/7530964/</idno>
+          <linkGrp>
+            <ptr ana="P.651" target="/o:mgs.normalizedText#P.651" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O122">
+          <placeName type="contemporary">Schlangenbad</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/6553202/</idno>
+          <linkGrp>
+            <ptr ana="P.150" target="/o:mgs.normalizedText#P.150" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O114">
+          <placeName type="contemporary">Słobity (Polen)</placeName>
+          <placeName type="historical">Schlobitten</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3085553/</idno>
+          <linkGrp>
+            <ptr ana="P.89" target="/o:mgs.normalizedText#P.89" type="page"/>
+            <ptr ana="P.194" target="/o:mgs.normalizedText#P.194" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O152">
+          <placeName type="contemporary">Gładysze (Polen)</placeName>
+          <placeName type="historical">Schlodien</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3099333/</idno>
+          <linkGrp>
+            <ptr ana="P.492" target="/o:mgs.normalizedText#P.492" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O110">
+          <placeName type="contemporary">Schwerin</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2834281/</idno>
+          <linkGrp>
+            <ptr ana="P.130" target="/o:mgs.normalizedText#P.130" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O85">
+          <placeName type="contemporary">Śląsk  (Polen), Slezsko (Tschechien)</placeName>
+          <placeName type="historical">Schlesien</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3066138/</idno>
+          <linkGrp>
+            <ptr ana="P.310" target="/o:mgs.normalizedText#P.310" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.314" target="/o:mgs.normalizedText#P.314" type="page"/>
+            <ptr ana="P.316" target="/o:mgs.normalizedText#P.316" type="page"/>
+            <ptr ana="P.349" target="/o:mgs.normalizedText#P.349" type="page"/>
+            <ptr ana="P.444" target="/o:mgs.normalizedText#P.444" type="page"/>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+            <ptr ana="P.459" target="/o:mgs.normalizedText#P.459" type="page"/>
+            <ptr ana="P.481" target="/o:mgs.normalizedText#P.481" type="page"/>
+            <ptr ana="P.484" target="/o:mgs.normalizedText#P.484" type="page"/>
+            <ptr ana="P.484" target="/o:mgs.normalizedText#P.484" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O129">
+          <placeName type="contemporary">Gut und Schloss Sonsfeld (heute im Stadtgebiet von Rees)</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2849548/</idno>
+          <linkGrp>
+            <ptr ana="P.153" target="/o:mgs.normalizedText#P.153" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O86">
+          <placeName type="contemporary">Spandau</placeName>
+          <placeName type="historical">Spandau</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/7290252/</idno>
+          <linkGrp>
+            <ptr ana="P.31" target="/o:mgs.normalizedText#P.31" type="page"/>
+            <ptr ana="P.125" target="/o:mgs.normalizedText#P.125" type="page"/>
+            <ptr ana="P.299" target="/o:mgs.normalizedText#P.299" type="page"/>
+            <ptr ana="P.305" target="/o:mgs.normalizedText#P.305" type="page"/>
+            <ptr ana="P.305" target="/o:mgs.normalizedText#P.305" type="page"/>
+            <ptr ana="P.306" target="/o:mgs.normalizedText#P.306" type="page"/>
+            <ptr ana="P.307" target="/o:mgs.normalizedText#P.307" type="page"/>
+            <ptr ana="P.316" target="/o:mgs.normalizedText#P.316" type="page"/>
+            <ptr ana="P.316" target="/o:mgs.normalizedText#P.316" type="page"/>
+            <ptr ana="P.316" target="/o:mgs.normalizedText#P.316" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O136">
+          <placeName type="contemporary">Stargard Gubiński (Polen)</placeName>
+          <placeName type="historical">Stargard</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3084840/</idno>
+          <linkGrp>
+            <ptr ana="P.172" target="/o:mgs.normalizedText#P.172" type="page"/>
+            <ptr ana="P.447" target="/o:mgs.normalizedText#P.447" type="page"/>
+            <ptr ana="P.448" target="/o:mgs.normalizedText#P.448" type="page"/>
+            <ptr ana="P.450" target="/o:mgs.normalizedText#P.450" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O150">
+          <placeName type="contemporary">Szczecin (Polen)</placeName>
+          <placeName type="historical">Stettin</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3083829/</idno>
+          <linkGrp>
+            <ptr ana="P.358" target="/o:mgs.normalizedText#P.358" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O115">
+          <placeName type="contemporary">Stralsund</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2826287/</idno>
+          <linkGrp>
+            <ptr ana="P.203" target="/o:mgs.normalizedText#P.203" type="page"/>
+            <ptr ana="P.205" target="/o:mgs.normalizedText#P.205" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O79">
+          <placeName type="contemporary">Schweden</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2661886/</idno>
+          <linkGrp>
+            <ptr ana="P.374" target="/o:mgs.normalizedText#P.374" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O89">
+          <placeName type="contemporary">rumän. Timișoara</placeName>
+          <placeName type="historical">Temeswar</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/665087/</idno>
+          <linkGrp>
+            <ptr ana="P.83" target="/o:mgs.normalizedText#P.83" type="page"/>
+            <ptr ana="P.276" target="/o:mgs.normalizedText#P.276" type="page"/>
+            <ptr ana="P.278" target="/o:mgs.normalizedText#P.278" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O160">
+          <placeName type="contemporary">Toruń (Polen)</placeName>
+          <placeName type="historical">Thorn</placeName>
+          <idno source="https://www.geonames.org" type="URI"> https://sws.geonames.org/3083271/</idno>
+          <linkGrp>
+            <ptr ana="P.505" target="/o:mgs.normalizedText#P.505" type="page"/>
+            <ptr ana="P.509" target="/o:mgs.normalizedText#P.509" type="page"/>
+            <ptr ana="P.526" target="/o:mgs.normalizedText#P.526" type="page"/>
+            <ptr ana="P.527" target="/o:mgs.normalizedText#P.527" type="page"/>
+            <ptr ana="P.529" target="/o:mgs.normalizedText#P.529" type="page"/>
+            <ptr ana="P.532" target="/o:mgs.normalizedText#P.532" type="page"/>
+            <ptr ana="P.532" target="/o:mgs.normalizedText#P.532" type="page"/>
+            <ptr ana="P.533" target="/o:mgs.normalizedText#P.533" type="page"/>
+            <ptr ana="P.537" target="/o:mgs.normalizedText#P.537" type="page"/>
+            <ptr ana="P.537" target="/o:mgs.normalizedText#P.537" type="page"/>
+            <ptr ana="P.541" target="/o:mgs.normalizedText#P.541" type="page"/>
+            <ptr ana="P.542" target="/o:mgs.normalizedText#P.542" type="page"/>
+            <ptr ana="P.549" target="/o:mgs.normalizedText#P.549" type="page"/>
+            <ptr ana="P.549" target="/o:mgs.normalizedText#P.549" type="page"/>
+            <ptr ana="P.665" target="/o:mgs.normalizedText#P.665" type="page"/>
+            <ptr ana="P.665" target="/o:mgs.normalizedText#P.665" type="page"/>
+            <ptr ana="P.666" target="/o:mgs.normalizedText#P.666" type="page"/>
+            <ptr ana="P.672" target="/o:mgs.normalizedText#P.672" type="page"/>
+            <ptr ana="P.676" target="/o:mgs.normalizedText#P.676" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O139">
+          <placeName type="contemporary">Dunowo (Polen)</placeName>
+          <placeName type="historical">Thunow</placeName>
+          <note type="description">Landgut des Grafen Schwerin (bei Köslin, Pommern)</note>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3100002/</idno>
+          <linkGrp>
+            <ptr ana="P.100" target="/o:mgs.normalizedText#P.100" type="page"/>
+            <ptr ana="P.184" target="/o:mgs.normalizedText#P.184" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O90">
+          <placeName type="contemporary">Tolkmicko (Polen)</placeName>
+          <placeName type="historical">Tolkemit</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/7533223/</idno>
+          <linkGrp>
+            <ptr ana="P.652" target="/o:mgs.normalizedText#P.652" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O91">
+          <placeName type="contemporary">Zmigród (Polen)</placeName>
+          <placeName type="historical">Trachenberg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3080058/</idno>
+          <linkGrp>
+            <ptr ana="P.405" target="/o:mgs.normalizedText#P.405" type="page"/>
+            <ptr ana="P.405" target="/o:mgs.normalizedText#P.405" type="page"/>
+            <ptr ana="P.405" target="/o:mgs.normalizedText#P.405" type="page"/>
+            <ptr ana="P.537" target="/o:mgs.normalizedText#P.537" type="page"/>
+            <ptr ana="P.670" target="/o:mgs.normalizedText#P.670" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O94">
+          <placeName type="contemporary">Warmia (Polen)</placeName>
+          <placeName type="historical">Ermland</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/756145/</idno>
+          <idno type="URI">http://d-nb.info/gnd/4676760-5 </idno>
+          <linkGrp>
+            <ptr ana="P.521" target="/o:mgs.normalizedText#P.521" type="page"/>
+            <ptr ana="P.526" target="/o:mgs.normalizedText#P.526" type="page"/>
+            <ptr ana="P.541" target="/o:mgs.normalizedText#P.541" type="page"/>
+            <ptr ana="P.542" target="/o:mgs.normalizedText#P.542" type="page"/>
+            <ptr ana="P.542" target="/o:mgs.normalizedText#P.542" type="page"/>
+            <ptr ana="P.570" target="/o:mgs.normalizedText#P.570" type="page"/>
+            <ptr ana="P.611" target="/o:mgs.normalizedText#P.611" type="page"/>
+            <ptr ana="P.625" target="/o:mgs.normalizedText#P.625" type="page"/>
+            <ptr ana="P.645" target="/o:mgs.normalizedText#P.645" type="page"/>
+            <ptr ana="P.646" target="/o:mgs.normalizedText#P.646" type="page"/>
+            <ptr ana="P.648" target="/o:mgs.normalizedText#P.648" type="page"/>
+            <ptr ana="P.656" target="/o:mgs.normalizedText#P.656" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O23">
+          <placeName type="contemporary">Wien</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2761369/</idno>
+          <linkGrp>
+            <ptr ana="P.130" target="/o:mgs.normalizedText#P.130" type="page"/>
+            <ptr ana="P.130" target="/o:mgs.normalizedText#P.130" type="page"/>
+            <ptr ana="P.210" target="/o:mgs.normalizedText#P.210" type="page"/>
+            <ptr ana="P.213" target="/o:mgs.normalizedText#P.213" type="page"/>
+            <ptr ana="P.214" target="/o:mgs.normalizedText#P.214" type="page"/>
+            <ptr ana="P.215" target="/o:mgs.normalizedText#P.215" type="page"/>
+            <ptr ana="P.216" target="/o:mgs.normalizedText#P.216" type="page"/>
+            <ptr ana="P.216" target="/o:mgs.normalizedText#P.216" type="page"/>
+            <ptr ana="P.216" target="/o:mgs.normalizedText#P.216" type="page"/>
+            <ptr ana="P.217" target="/o:mgs.normalizedText#P.217" type="page"/>
+            <ptr ana="P.218" target="/o:mgs.normalizedText#P.218" type="page"/>
+            <ptr ana="P.219" target="/o:mgs.normalizedText#P.219" type="page"/>
+            <ptr ana="P.219" target="/o:mgs.normalizedText#P.219" type="page"/>
+            <ptr ana="P.220" target="/o:mgs.normalizedText#P.220" type="page"/>
+            <ptr ana="P.221" target="/o:mgs.normalizedText#P.221" type="page"/>
+            <ptr ana="P.221" target="/o:mgs.normalizedText#P.221" type="page"/>
+            <ptr ana="P.223" target="/o:mgs.normalizedText#P.223" type="page"/>
+            <ptr ana="P.223" target="/o:mgs.normalizedText#P.223" type="page"/>
+            <ptr ana="P.226" target="/o:mgs.normalizedText#P.226" type="page"/>
+            <ptr ana="P.226" target="/o:mgs.normalizedText#P.226" type="page"/>
+            <ptr ana="P.227" target="/o:mgs.normalizedText#P.227" type="page"/>
+            <ptr ana="P.227" target="/o:mgs.normalizedText#P.227" type="page"/>
+            <ptr ana="P.227" target="/o:mgs.normalizedText#P.227" type="page"/>
+            <ptr ana="P.227" target="/o:mgs.normalizedText#P.227" type="page"/>
+            <ptr ana="P.229" target="/o:mgs.normalizedText#P.229" type="page"/>
+            <ptr ana="P.229" target="/o:mgs.normalizedText#P.229" type="page"/>
+            <ptr ana="P.229" target="/o:mgs.normalizedText#P.229" type="page"/>
+            <ptr ana="P.229" target="/o:mgs.normalizedText#P.229" type="page"/>
+            <ptr ana="P.229" target="/o:mgs.normalizedText#P.229" type="page"/>
+            <ptr ana="P.229" target="/o:mgs.normalizedText#P.229" type="page"/>
+            <ptr ana="P.230" target="/o:mgs.normalizedText#P.230" type="page"/>
+            <ptr ana="P.230" target="/o:mgs.normalizedText#P.230" type="page"/>
+            <ptr ana="P.231" target="/o:mgs.normalizedText#P.231" type="page"/>
+            <ptr ana="P.232" target="/o:mgs.normalizedText#P.232" type="page"/>
+            <ptr ana="P.232" target="/o:mgs.normalizedText#P.232" type="page"/>
+            <ptr ana="P.233" target="/o:mgs.normalizedText#P.233" type="page"/>
+            <ptr ana="P.234" target="/o:mgs.normalizedText#P.234" type="page"/>
+            <ptr ana="P.234" target="/o:mgs.normalizedText#P.234" type="page"/>
+            <ptr ana="P.234" target="/o:mgs.normalizedText#P.234" type="page"/>
+            <ptr ana="P.234" target="/o:mgs.normalizedText#P.234" type="page"/>
+            <ptr ana="P.234" target="/o:mgs.normalizedText#P.234" type="page"/>
+            <ptr ana="P.234" target="/o:mgs.normalizedText#P.234" type="page"/>
+            <ptr ana="P.234" target="/o:mgs.normalizedText#P.234" type="page"/>
+            <ptr ana="P.235" target="/o:mgs.normalizedText#P.235" type="page"/>
+            <ptr ana="P.237" target="/o:mgs.normalizedText#P.237" type="page"/>
+            <ptr ana="P.237" target="/o:mgs.normalizedText#P.237" type="page"/>
+            <ptr ana="P.238" target="/o:mgs.normalizedText#P.238" type="page"/>
+            <ptr ana="P.239" target="/o:mgs.normalizedText#P.239" type="page"/>
+            <ptr ana="P.239" target="/o:mgs.normalizedText#P.239" type="page"/>
+            <ptr ana="P.240" target="/o:mgs.normalizedText#P.240" type="page"/>
+            <ptr ana="P.241" target="/o:mgs.normalizedText#P.241" type="page"/>
+            <ptr ana="P.242" target="/o:mgs.normalizedText#P.242" type="page"/>
+            <ptr ana="P.242" target="/o:mgs.normalizedText#P.242" type="page"/>
+            <ptr ana="P.242" target="/o:mgs.normalizedText#P.242" type="page"/>
+            <ptr ana="P.244" target="/o:mgs.normalizedText#P.244" type="page"/>
+            <ptr ana="P.244" target="/o:mgs.normalizedText#P.244" type="page"/>
+            <ptr ana="P.245" target="/o:mgs.normalizedText#P.245" type="page"/>
+            <ptr ana="P.245" target="/o:mgs.normalizedText#P.245" type="page"/>
+            <ptr ana="P.246" target="/o:mgs.normalizedText#P.246" type="page"/>
+            <ptr ana="P.247" target="/o:mgs.normalizedText#P.247" type="page"/>
+            <ptr ana="P.248" target="/o:mgs.normalizedText#P.248" type="page"/>
+            <ptr ana="P.248" target="/o:mgs.normalizedText#P.248" type="page"/>
+            <ptr ana="P.250" target="/o:mgs.normalizedText#P.250" type="page"/>
+            <ptr ana="P.252" target="/o:mgs.normalizedText#P.252" type="page"/>
+            <ptr ana="P.253" target="/o:mgs.normalizedText#P.253" type="page"/>
+            <ptr ana="P.254" target="/o:mgs.normalizedText#P.254" type="page"/>
+            <ptr ana="P.256" target="/o:mgs.normalizedText#P.256" type="page"/>
+            <ptr ana="P.257" target="/o:mgs.normalizedText#P.257" type="page"/>
+            <ptr ana="P.259" target="/o:mgs.normalizedText#P.259" type="page"/>
+            <ptr ana="P.261" target="/o:mgs.normalizedText#P.261" type="page"/>
+            <ptr ana="P.262" target="/o:mgs.normalizedText#P.262" type="page"/>
+            <ptr ana="P.265" target="/o:mgs.normalizedText#P.265" type="page"/>
+            <ptr ana="P.266" target="/o:mgs.normalizedText#P.266" type="page"/>
+            <ptr ana="P.266" target="/o:mgs.normalizedText#P.266" type="page"/>
+            <ptr ana="P.268" target="/o:mgs.normalizedText#P.268" type="page"/>
+            <ptr ana="P.270" target="/o:mgs.normalizedText#P.270" type="page"/>
+            <ptr ana="P.271" target="/o:mgs.normalizedText#P.271" type="page"/>
+            <ptr ana="P.271" target="/o:mgs.normalizedText#P.271" type="page"/>
+            <ptr ana="P.276" target="/o:mgs.normalizedText#P.276" type="page"/>
+            <ptr ana="P.276" target="/o:mgs.normalizedText#P.276" type="page"/>
+            <ptr ana="P.276" target="/o:mgs.normalizedText#P.276" type="page"/>
+            <ptr ana="P.276" target="/o:mgs.normalizedText#P.276" type="page"/>
+            <ptr ana="P.276" target="/o:mgs.normalizedText#P.276" type="page"/>
+            <ptr ana="P.277" target="/o:mgs.normalizedText#P.277" type="page"/>
+            <ptr ana="P.279" target="/o:mgs.normalizedText#P.279" type="page"/>
+            <ptr ana="P.279" target="/o:mgs.normalizedText#P.279" type="page"/>
+            <ptr ana="P.280" target="/o:mgs.normalizedText#P.280" type="page"/>
+            <ptr ana="P.281" target="/o:mgs.normalizedText#P.281" type="page"/>
+            <ptr ana="P.281" target="/o:mgs.normalizedText#P.281" type="page"/>
+            <ptr ana="P.281" target="/o:mgs.normalizedText#P.281" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.282" target="/o:mgs.normalizedText#P.282" type="page"/>
+            <ptr ana="P.283" target="/o:mgs.normalizedText#P.283" type="page"/>
+            <ptr ana="P.283" target="/o:mgs.normalizedText#P.283" type="page"/>
+            <ptr ana="P.283" target="/o:mgs.normalizedText#P.283" type="page"/>
+            <ptr ana="P.284" target="/o:mgs.normalizedText#P.284" type="page"/>
+            <ptr ana="P.284" target="/o:mgs.normalizedText#P.284" type="page"/>
+            <ptr ana="P.284" target="/o:mgs.normalizedText#P.284" type="page"/>
+            <ptr ana="P.284" target="/o:mgs.normalizedText#P.284" type="page"/>
+            <ptr ana="P.284" target="/o:mgs.normalizedText#P.284" type="page"/>
+            <ptr ana="P.285" target="/o:mgs.normalizedText#P.285" type="page"/>
+            <ptr ana="P.286" target="/o:mgs.normalizedText#P.286" type="page"/>
+            <ptr ana="P.286" target="/o:mgs.normalizedText#P.286" type="page"/>
+            <ptr ana="P.287" target="/o:mgs.normalizedText#P.287" type="page"/>
+            <ptr ana="P.289" target="/o:mgs.normalizedText#P.289" type="page"/>
+            <ptr ana="P.289" target="/o:mgs.normalizedText#P.289" type="page"/>
+            <ptr ana="P.290" target="/o:mgs.normalizedText#P.290" type="page"/>
+            <ptr ana="P.290" target="/o:mgs.normalizedText#P.290" type="page"/>
+            <ptr ana="P.291" target="/o:mgs.normalizedText#P.291" type="page"/>
+            <ptr ana="P.292" target="/o:mgs.normalizedText#P.292" type="page"/>
+            <ptr ana="P.293" target="/o:mgs.normalizedText#P.293" type="page"/>
+            <ptr ana="P.293" target="/o:mgs.normalizedText#P.293" type="page"/>
+            <ptr ana="P.293" target="/o:mgs.normalizedText#P.293" type="page"/>
+            <ptr ana="P.294" target="/o:mgs.normalizedText#P.294" type="page"/>
+            <ptr ana="P.294" target="/o:mgs.normalizedText#P.294" type="page"/>
+            <ptr ana="P.294" target="/o:mgs.normalizedText#P.294" type="page"/>
+            <ptr ana="P.295" target="/o:mgs.normalizedText#P.295" type="page"/>
+            <ptr ana="P.295" target="/o:mgs.normalizedText#P.295" type="page"/>
+            <ptr ana="P.295" target="/o:mgs.normalizedText#P.295" type="page"/>
+            <ptr ana="P.296" target="/o:mgs.normalizedText#P.296" type="page"/>
+            <ptr ana="P.296" target="/o:mgs.normalizedText#P.296" type="page"/>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.297" target="/o:mgs.normalizedText#P.297" type="page"/>
+            <ptr ana="P.300" target="/o:mgs.normalizedText#P.300" type="page"/>
+            <ptr ana="P.301" target="/o:mgs.normalizedText#P.301" type="page"/>
+            <ptr ana="P.301" target="/o:mgs.normalizedText#P.301" type="page"/>
+            <ptr ana="P.301" target="/o:mgs.normalizedText#P.301" type="page"/>
+            <ptr ana="P.302" target="/o:mgs.normalizedText#P.302" type="page"/>
+            <ptr ana="P.304" target="/o:mgs.normalizedText#P.304" type="page"/>
+            <ptr ana="P.313" target="/o:mgs.normalizedText#P.313" type="page"/>
+            <ptr ana="P.314" target="/o:mgs.normalizedText#P.314" type="page"/>
+            <ptr ana="P.315" target="/o:mgs.normalizedText#P.315" type="page"/>
+            <ptr ana="P.316" target="/o:mgs.normalizedText#P.316" type="page"/>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+            <ptr ana="P.318" target="/o:mgs.normalizedText#P.318" type="page"/>
+            <ptr ana="P.319" target="/o:mgs.normalizedText#P.319" type="page"/>
+            <ptr ana="P.319" target="/o:mgs.normalizedText#P.319" type="page"/>
+            <ptr ana="P.319" target="/o:mgs.normalizedText#P.319" type="page"/>
+            <ptr ana="P.320" target="/o:mgs.normalizedText#P.320" type="page"/>
+            <ptr ana="P.321" target="/o:mgs.normalizedText#P.321" type="page"/>
+            <ptr ana="P.321" target="/o:mgs.normalizedText#P.321" type="page"/>
+            <ptr ana="P.324" target="/o:mgs.normalizedText#P.324" type="page"/>
+            <ptr ana="P.324" target="/o:mgs.normalizedText#P.324" type="page"/>
+            <ptr ana="P.325" target="/o:mgs.normalizedText#P.325" type="page"/>
+            <ptr ana="P.326" target="/o:mgs.normalizedText#P.326" type="page"/>
+            <ptr ana="P.327" target="/o:mgs.normalizedText#P.327" type="page"/>
+            <ptr ana="P.327" target="/o:mgs.normalizedText#P.327" type="page"/>
+            <ptr ana="P.327" target="/o:mgs.normalizedText#P.327" type="page"/>
+            <ptr ana="P.329" target="/o:mgs.normalizedText#P.329" type="page"/>
+            <ptr ana="P.330" target="/o:mgs.normalizedText#P.330" type="page"/>
+            <ptr ana="P.331" target="/o:mgs.normalizedText#P.331" type="page"/>
+            <ptr ana="P.332" target="/o:mgs.normalizedText#P.332" type="page"/>
+            <ptr ana="P.334" target="/o:mgs.normalizedText#P.334" type="page"/>
+            <ptr ana="P.334" target="/o:mgs.normalizedText#P.334" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.335" target="/o:mgs.normalizedText#P.335" type="page"/>
+            <ptr ana="P.336" target="/o:mgs.normalizedText#P.336" type="page"/>
+            <ptr ana="P.336" target="/o:mgs.normalizedText#P.336" type="page"/>
+            <ptr ana="P.338" target="/o:mgs.normalizedText#P.338" type="page"/>
+            <ptr ana="P.338" target="/o:mgs.normalizedText#P.338" type="page"/>
+            <ptr ana="P.349" target="/o:mgs.normalizedText#P.349" type="page"/>
+            <ptr ana="P.349" target="/o:mgs.normalizedText#P.349" type="page"/>
+            <ptr ana="P.352" target="/o:mgs.normalizedText#P.352" type="page"/>
+            <ptr ana="P.353" target="/o:mgs.normalizedText#P.353" type="page"/>
+            <ptr ana="P.353" target="/o:mgs.normalizedText#P.353" type="page"/>
+            <ptr ana="P.355" target="/o:mgs.normalizedText#P.355" type="page"/>
+            <ptr ana="P.358" target="/o:mgs.normalizedText#P.358" type="page"/>
+            <ptr ana="P.358" target="/o:mgs.normalizedText#P.358" type="page"/>
+            <ptr ana="P.359" target="/o:mgs.normalizedText#P.359" type="page"/>
+            <ptr ana="P.360" target="/o:mgs.normalizedText#P.360" type="page"/>
+            <ptr ana="P.362" target="/o:mgs.normalizedText#P.362" type="page"/>
+            <ptr ana="P.364" target="/o:mgs.normalizedText#P.364" type="page"/>
+            <ptr ana="P.364" target="/o:mgs.normalizedText#P.364" type="page"/>
+            <ptr ana="P.367" target="/o:mgs.normalizedText#P.367" type="page"/>
+            <ptr ana="P.367" target="/o:mgs.normalizedText#P.367" type="page"/>
+            <ptr ana="P.367" target="/o:mgs.normalizedText#P.367" type="page"/>
+            <ptr ana="P.367" target="/o:mgs.normalizedText#P.367" type="page"/>
+            <ptr ana="P.368" target="/o:mgs.normalizedText#P.368" type="page"/>
+            <ptr ana="P.369" target="/o:mgs.normalizedText#P.369" type="page"/>
+            <ptr ana="P.370" target="/o:mgs.normalizedText#P.370" type="page"/>
+            <ptr ana="P.370" target="/o:mgs.normalizedText#P.370" type="page"/>
+            <ptr ana="P.371" target="/o:mgs.normalizedText#P.371" type="page"/>
+            <ptr ana="P.372" target="/o:mgs.normalizedText#P.372" type="page"/>
+            <ptr ana="P.373" target="/o:mgs.normalizedText#P.373" type="page"/>
+            <ptr ana="P.374" target="/o:mgs.normalizedText#P.374" type="page"/>
+            <ptr ana="P.374" target="/o:mgs.normalizedText#P.374" type="page"/>
+            <ptr ana="P.375" target="/o:mgs.normalizedText#P.375" type="page"/>
+            <ptr ana="P.381" target="/o:mgs.normalizedText#P.381" type="page"/>
+            <ptr ana="P.381" target="/o:mgs.normalizedText#P.381" type="page"/>
+            <ptr ana="P.381" target="/o:mgs.normalizedText#P.381" type="page"/>
+            <ptr ana="P.382" target="/o:mgs.normalizedText#P.382" type="page"/>
+            <ptr ana="P.382" target="/o:mgs.normalizedText#P.382" type="page"/>
+            <ptr ana="P.385" target="/o:mgs.normalizedText#P.385" type="page"/>
+            <ptr ana="P.385" target="/o:mgs.normalizedText#P.385" type="page"/>
+            <ptr ana="P.385" target="/o:mgs.normalizedText#P.385" type="page"/>
+            <ptr ana="P.386" target="/o:mgs.normalizedText#P.386" type="page"/>
+            <ptr ana="P.393" target="/o:mgs.normalizedText#P.393" type="page"/>
+            <ptr ana="P.396" target="/o:mgs.normalizedText#P.396" type="page"/>
+            <ptr ana="P.405" target="/o:mgs.normalizedText#P.405" type="page"/>
+            <ptr ana="P.407" target="/o:mgs.normalizedText#P.407" type="page"/>
+            <ptr ana="P.415" target="/o:mgs.normalizedText#P.415" type="page"/>
+            <ptr ana="P.424" target="/o:mgs.normalizedText#P.424" type="page"/>
+            <ptr ana="P.424" target="/o:mgs.normalizedText#P.424" type="page"/>
+            <ptr ana="P.425" target="/o:mgs.normalizedText#P.425" type="page"/>
+            <ptr ana="P.427" target="/o:mgs.normalizedText#P.427" type="page"/>
+            <ptr ana="P.428" target="/o:mgs.normalizedText#P.428" type="page"/>
+            <ptr ana="P.429" target="/o:mgs.normalizedText#P.429" type="page"/>
+            <ptr ana="P.429" target="/o:mgs.normalizedText#P.429" type="page"/>
+            <ptr ana="P.429" target="/o:mgs.normalizedText#P.429" type="page"/>
+            <ptr ana="P.429" target="/o:mgs.normalizedText#P.429" type="page"/>
+            <ptr ana="P.431" target="/o:mgs.normalizedText#P.431" type="page"/>
+            <ptr ana="P.435" target="/o:mgs.normalizedText#P.435" type="page"/>
+            <ptr ana="P.436" target="/o:mgs.normalizedText#P.436" type="page"/>
+            <ptr ana="P.436" target="/o:mgs.normalizedText#P.436" type="page"/>
+            <ptr ana="P.439" target="/o:mgs.normalizedText#P.439" type="page"/>
+            <ptr ana="P.455" target="/o:mgs.normalizedText#P.455" type="page"/>
+            <ptr ana="P.455" target="/o:mgs.normalizedText#P.455" type="page"/>
+            <ptr ana="P.455" target="/o:mgs.normalizedText#P.455" type="page"/>
+            <ptr ana="P.455" target="/o:mgs.normalizedText#P.455" type="page"/>
+            <ptr ana="P.458" target="/o:mgs.normalizedText#P.458" type="page"/>
+            <ptr ana="P.460" target="/o:mgs.normalizedText#P.460" type="page"/>
+            <ptr ana="P.462" target="/o:mgs.normalizedText#P.462" type="page"/>
+            <ptr ana="P.462" target="/o:mgs.normalizedText#P.462" type="page"/>
+            <ptr ana="P.466" target="/o:mgs.normalizedText#P.466" type="page"/>
+            <ptr ana="P.471" target="/o:mgs.normalizedText#P.471" type="page"/>
+            <ptr ana="P.472" target="/o:mgs.normalizedText#P.472" type="page"/>
+            <ptr ana="P.473" target="/o:mgs.normalizedText#P.473" type="page"/>
+            <ptr ana="P.473" target="/o:mgs.normalizedText#P.473" type="page"/>
+            <ptr ana="P.476" target="/o:mgs.normalizedText#P.476" type="page"/>
+            <ptr ana="P.479" target="/o:mgs.normalizedText#P.479" type="page"/>
+            <ptr ana="P.479" target="/o:mgs.normalizedText#P.479" type="page"/>
+            <ptr ana="P.479" target="/o:mgs.normalizedText#P.479" type="page"/>
+            <ptr ana="P.480" target="/o:mgs.normalizedText#P.480" type="page"/>
+            <ptr ana="P.484" target="/o:mgs.normalizedText#P.484" type="page"/>
+            <ptr ana="P.537" target="/o:mgs.normalizedText#P.537" type="page"/>
+            <ptr ana="P.540" target="/o:mgs.normalizedText#P.540" type="page"/>
+            <ptr ana="P.547" target="/o:mgs.normalizedText#P.547" type="page"/>
+            <ptr ana="P.614" target="/o:mgs.normalizedText#P.614" type="page"/>
+            <ptr ana="P.622" target="/o:mgs.normalizedText#P.622" type="page"/>
+            <ptr ana="P.647" target="/o:mgs.normalizedText#P.647" type="page"/>
+            <ptr ana="P.647" target="/o:mgs.normalizedText#P.647" type="page"/>
+            <ptr ana="P.647" target="/o:mgs.normalizedText#P.647" type="page"/>
+            <ptr ana="P.647" target="/o:mgs.normalizedText#P.647" type="page"/>
+            <ptr ana="P.655" target="/o:mgs.normalizedText#P.655" type="page"/>
+            <ptr ana="P.673" target="/o:mgs.normalizedText#P.673" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O99">
+          <placeName type="contemporary">Walsleben </placeName>
+          <note type="description">Landgut des Grafen Schwerin</note>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/6547661/</idno>
+          <linkGrp>
+            <ptr ana="P.163" target="/o:mgs.normalizedText#P.163" type="page"/>
+            <ptr ana="P.169" target="/o:mgs.normalizedText#P.169" type="page"/>
+            <ptr ana="P.184" target="/o:mgs.normalizedText#P.184" type="page"/>
+            <ptr ana="P.197" target="/o:mgs.normalizedText#P.197" type="page"/>
+            <ptr ana="P.198" target="/o:mgs.normalizedText#P.198" type="page"/>
+            <ptr ana="P.203" target="/o:mgs.normalizedText#P.203" type="page"/>
+            <ptr ana="P.204" target="/o:mgs.normalizedText#P.204" type="page"/>
+            <ptr ana="P.204" target="/o:mgs.normalizedText#P.204" type="page"/>
+            <ptr ana="P.220" target="/o:mgs.normalizedText#P.220" type="page"/>
+            <ptr ana="P.412" target="/o:mgs.normalizedText#P.412" type="page"/>
+            <ptr ana="P.413" target="/o:mgs.normalizedText#P.413" type="page"/>
+            <ptr ana="P.417" target="/o:mgs.normalizedText#P.417" type="page"/>
+            <ptr ana="P.418" target="/o:mgs.normalizedText#P.418" type="page"/>
+            <ptr ana="P.420" target="/o:mgs.normalizedText#P.420" type="page"/>
+            <ptr ana="P.420" target="/o:mgs.normalizedText#P.420" type="page"/>
+            <ptr ana="P.420" target="/o:mgs.normalizedText#P.420" type="page"/>
+            <ptr ana="P.420" target="/o:mgs.normalizedText#P.420" type="page"/>
+            <ptr ana="P.431" target="/o:mgs.normalizedText#P.431" type="page"/>
+            <ptr ana="P.454" target="/o:mgs.normalizedText#P.454" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O125">
+          <placeName type="contemporary">Syców (Polen)</placeName>
+          <placeName type="historical">Polnisch-Wartenberg </placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3083921/</idno>
+          <linkGrp>
+            <ptr ana="P.310" target="/o:mgs.normalizedText#P.310" type="page"/>
+            <ptr ana="P.336" target="/o:mgs.normalizedText#P.336" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O103">
+          <placeName type="contemporary">Wesel</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2810678/</idno>
+          <linkGrp>
+            <ptr ana="P.21" target="/o:mgs.normalizedText#P.21" type="page"/>
+            <ptr ana="P.22" target="/o:mgs.normalizedText#P.22" type="page"/>
+            <ptr ana="P.22" target="/o:mgs.normalizedText#P.22" type="page"/>
+            <ptr ana="P.37" target="/o:mgs.normalizedText#P.37" type="page"/>
+            <ptr ana="P.38" target="/o:mgs.normalizedText#P.38" type="page"/>
+            <ptr ana="P.44" target="/o:mgs.normalizedText#P.44" type="page"/>
+            <ptr ana="P.53" target="/o:mgs.normalizedText#P.53" type="page"/>
+            <ptr ana="P.53" target="/o:mgs.normalizedText#P.53" type="page"/>
+            <ptr ana="P.54" target="/o:mgs.normalizedText#P.54" type="page"/>
+            <ptr ana="P.64" target="/o:mgs.normalizedText#P.64" type="page"/>
+            <ptr ana="P.66" target="/o:mgs.normalizedText#P.66" type="page"/>
+            <ptr ana="P.74" target="/o:mgs.normalizedText#P.74" type="page"/>
+            <ptr ana="P.75" target="/o:mgs.normalizedText#P.75" type="page"/>
+            <ptr ana="P.78" target="/o:mgs.normalizedText#P.78" type="page"/>
+            <ptr ana="P.83" target="/o:mgs.normalizedText#P.83" type="page"/>
+            <ptr ana="P.107" target="/o:mgs.normalizedText#P.107" type="page"/>
+            <ptr ana="P.118" target="/o:mgs.normalizedText#P.118" type="page"/>
+            <ptr ana="P.118" target="/o:mgs.normalizedText#P.118" type="page"/>
+            <ptr ana="P.124" target="/o:mgs.normalizedText#P.124" type="page"/>
+            <ptr ana="P.124" target="/o:mgs.normalizedText#P.124" type="page"/>
+            <ptr ana="P.151" target="/o:mgs.normalizedText#P.151" type="page"/>
+            <ptr ana="P.152" target="/o:mgs.normalizedText#P.152" type="page"/>
+            <ptr ana="P.153" target="/o:mgs.normalizedText#P.153" type="page"/>
+            <ptr ana="P.154" target="/o:mgs.normalizedText#P.154" type="page"/>
+            <ptr ana="P.196" target="/o:mgs.normalizedText#P.196" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O104">
+          <placeName type="contemporary">Vyškov (Tschechien)</placeName>
+          <placeName type="historical">Wischau</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3062283/</idno>
+          <linkGrp>
+            <ptr ana="P.385" target="/o:mgs.normalizedText#P.385" type="page"/>
+            <ptr ana="P.385" target="/o:mgs.normalizedText#P.385" type="page"/>
+            <ptr ana="P.386" target="/o:mgs.normalizedText#P.386" type="page"/>
+            <ptr ana="P.388" target="/o:mgs.normalizedText#P.388" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O108">
+          <placeName type="contemporary">Dzikowo Iławeckie (Polen)</placeName>
+          <placeName type="historical">Wildenhof</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/772659/</idno>
+          <linkGrp>
+            <ptr ana="P.42" target="/o:mgs.normalizedText#P.42" type="page"/>
+            <ptr ana="P.62" target="/o:mgs.normalizedText#P.62" type="page"/>
+            <ptr ana="P.100" target="/o:mgs.normalizedText#P.100" type="page"/>
+            <ptr ana="P.184" target="/o:mgs.normalizedText#P.184" type="page"/>
+            <ptr ana="P.544" target="/o:mgs.normalizedText#P.544" type="page"/>
+            <ptr ana="P.544" target="/o:mgs.normalizedText#P.544" type="page"/>
+            <ptr ana="P.545" target="/o:mgs.normalizedText#P.545" type="page"/>
+            <ptr ana="P.546" target="/o:mgs.normalizedText#P.546" type="page"/>
+            <ptr ana="P.548" target="/o:mgs.normalizedText#P.548" type="page"/>
+            <ptr ana="P.628" target="/o:mgs.normalizedText#P.628" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O175">
+          <placeName type="contemporary">Sucha Koszalińska (Polen)</placeName>
+          <placeName type="historical">Zuchen</placeName>
+          <note type="description">Landgut des Grafen Schwerin (bei Köslin, Pommern)</note>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/3084290/</idno>
+          <linkGrp>
+            <ptr ana="P.100" target="/o:mgs.normalizedText#P.100" type="page"/>
+            <ptr ana="P.184" target="/o:mgs.normalizedText#P.184" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O142">
+          <placeName type="contemporary">Zutphen (Niederlande)</placeName>
+          <placeName type="historical">Zütphen</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2743607/</idno>
+          <linkGrp>
+            <ptr ana="P.38" target="/o:mgs.normalizedText#P.38" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O109">
+          <placeName type="contemporary">Minden</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2871039/</idno>
+          <linkGrp>
+            <ptr ana="P.42" target="/o:mgs.normalizedText#P.42" type="page"/>
+            <ptr ana="P.49" target="/o:mgs.normalizedText#P.49" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O172">
+          <placeName type="contemporary">Krudenburg (heute Ortsteil von Hünxe bei Wesel)</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/2883475/</idno>
+          <idno type="URI">https://explore.gnd.network/gnd/4809888-7?term=Krudenburg&amp;rows=25&amp;pos=2</idno>
+          <linkGrp>
+            <ptr ana="P.59" target="/o:mgs.normalizedText#P.59" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O171">
+          <placeName type="contemporary">Bruch (oder Broich)</placeName>
+          <idno type="URI">https://explore.gnd.network/gnd/7749024-1?term=Broich&amp;rows=25&amp;pos=3</idno>
+          <linkGrp>
+            <ptr ana="P.54" target="/o:mgs.normalizedText#P.54" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O26">
+          <placeName type="contemporary">Slavskoye (Russland)</placeName>
+          <placeName type="historical">Kreuzburg</placeName>
+          <idno source="https://www.geonames.org" type="URI">https://sws.geonames.org/492109/</idno>
+          <linkGrp>
+            <ptr ana="P.580" target="/o:mgs.normalizedText#P.580" type="page"/>
+            <ptr ana="P.580" target="/o:mgs.normalizedText#P.580" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O176">
+          <placeName type="contemporary">nicht identifiziertes Dorf bei Danzig</placeName>
+          <linkGrp>
+            <ptr ana="P.655" target="/o:mgs.normalizedText#P.655" type="page"/>
+          </linkGrp>
+        </place>
+        <place xml:id="O206">
+          <placeName type="contemporary">nicht identifiziertes Dorf in Polen (zwischen Lissa und Breslau)</placeName>
+          <linkGrp>
+            <ptr ana="P.404" target="/o:mgs.normalizedText#P.404" type="page"/>
+          </linkGrp>
+        </place>
+      </listPlace>
+    </body>
+  </text>
+</TEI>
